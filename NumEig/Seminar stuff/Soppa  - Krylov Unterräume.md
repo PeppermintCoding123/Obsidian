@@ -1,0 +1,2 @@
+- Normale wie in [[7.2 Krylov subspace]]
+- Block-Krylov-Unterraum

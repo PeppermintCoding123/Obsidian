@@ -1,0 +1,4 @@
+https://d1wqtxts1xzle7.cloudfront.net/107574605/rep57-libre.pdf?1700485612=&response-content-disposition=inline%3B+filename%3DAn_Arnoldi_Method_for_Nonlinear_Symmetri.pdf&Expires=1725716524&Signature=QzjShPhjo5viqDb86Dl91Q-eDrRNPBkYqSLHs0x0Hh~Z6rGYpB-IXH9jDftaxjkPis01-DEqltKDYcf-kYXmy0rsmxy5yMhEi0eiZ1s8DXEeOPWTAP6qyQe3HJAzPgP0ISE0yS-YeSkv9NPchxcPco99xZOM~p6BHv9QwDto7W5fuqhNBrtobh9vVWiBUujtqQLyQ8F4WD5rO6iis4hsPHMdgj-1vFrDfTEB15rM8fZwQA9TpzbxW-2UMpAziPdL0E80pSj8ZUdR2P~PQTVUsslZ3PFXaAm27erX00g1p9rcgT9LeGUDtWyIjZuPJFfRgA~gvYqOpBX~B-ykoHYSvw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+
+
+Mabey a bit too abstract and far fetched...

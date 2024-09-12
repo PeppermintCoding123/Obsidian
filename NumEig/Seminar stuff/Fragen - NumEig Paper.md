@@ -1,0 +1,6 @@
+1. Welche Schriftgröße und Seitengröße soll erreicht werden? Ich habe die Vorlage für ihres Skriptes erhalten aber 10 Seiten Schreiben bei ungefähr 13 Worte pro Zeile scheint mir echt wenig. Also ist es eher Anstrebenswert um 900 Worte pro Seite oder 450 Worte pro Seite zu schreiben?
+2. Soll der Text so formuliert sein, dass jeder mit einem basischen Verständnis von Linearer Algebra und Analysis ihn verstehen kann oder sind Dinge wie detaillierte Erklärungen der Definitionen unnötig?
+3. Ist mein Verständnis richtig: Das Ziel des Papers ist eine Ergänzung zur bestehenden Literatur (vor allem dem Buch) zu sein? Das bedeutet, dass im Paper beschriebene Ideen, Beweise, Verfahren,... zum besseren Verständnis des im Buch beschriebenen Sachen dient und teilweise die Notwendigkeit der Kapitel aufhebt durch eine rigorosere Herangehensweise zu schildern?
+4. Sollen die Beweise mehr Text oder Formel-lastig sein? Also soll jeder Schritt mit worten beschrieben werden oder sollen die Formeln für sich stehen und auf unnötige Erklärungen verzichtet werden?
+
+#NumEigNumerischeEigenwerte 

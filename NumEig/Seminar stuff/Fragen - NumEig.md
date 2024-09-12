@@ -1,0 +1,8 @@
+- Block-Krylov auch wichtig?
+- Die Große Frage die wir besprochen hatten: "Was sind Unterraummethoden?"
+	- Ist die Frage nicht eher nach der Speziefischen Unterraummethode mit Ritz-Pairs und [[Krylov Subspace]] 
+	- Fokus sollte schon sein:
+		- Wie erstelle [[Krylov Subspace]]?
+		- Wie verwände [[Krylov Subspace]]?
+		- Wozu verwänden?
+		- Wie verhalten sich [[Krylov Subspace]] im vergleich zu nicht? 

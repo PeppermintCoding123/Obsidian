@@ -1,0 +1,4 @@
+[[numpy.linalg.SVD]]
+#NumEigNumerischeEigenwerte 
+
+- 

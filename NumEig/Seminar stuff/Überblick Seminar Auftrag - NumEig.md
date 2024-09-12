@@ -1,0 +1,36 @@
+#NumEigNumerischeEigenwerte #### Überblick
+- Präsentieren, worum es in Kapitel 7 geht
+- Wo finden [[Krylov Subspace]] Anwendung in Numerik
+	- Erwähnen, nicht erklähren
+- Wie Werden [[Krylov Subspace]] verwändet?
+- [[Krylov Subspace]] Laufzeiten vergleichen zu anderen
+	- bei [[Sparce Matrix]] Voraussetzung
+- Darüber Hinaus
+	- Modellreduktion
+		- Sätze
+		- Bilder
+- Konvergenz Resultate - [[Motivations and realizations of Krylov subspace methods for large sparse linear systems]]
+	- Erwähnen, Aufbereiten oder Siehe Ausarbeitung
+	- Hier nicht unbedingt beweise
+- Plots zu "Wie verhält sich das Verfahren"
+- Numerik
+	- Eigenwertproblemen von verschiedenen Klassen von Matrizen untersuchen
+		- Random
+		- Laplace
+		- Eigenwerte nah genug Approximieren?
+		- Wenn $N \rightarrow \infty => Fehler \rightarrow 0$ ?
+			- wo Abschneiden, dh. Wievielte dimension ist nötig um nah genug zu kommen an echte Eigenwerte?
+			- Ist Abfall linear oder quadratisch?
+- Wie Konstruieren Unterrume anders als im Buch? / am Besten?
+- Zusammenhang zu A-Ortogonalität [[orthonomal basis]]
+
+- Wie Geht man mit dünn besetzen Matrizen um? - Speicherung​
+- Was sind Krylov subspaces​
+- wie Konstruiert man sie ​
+- Welches Problem lösen sie?​
+- Wie behandelt man sie?​
+- Was sind Unterraummethoden? - Wie Konstruieren am besten​
+	- Aus Buch​
+- Andere Methoden​
+- Modelluntersuchung:​
+	- Was passiert bei n-> unendlich?
