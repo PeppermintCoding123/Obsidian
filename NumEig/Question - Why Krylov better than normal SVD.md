@@ -1,3 +1,0 @@
-[[numpy.linalg.SVD]]
-#NumEig
-

@@ -4,7 +4,7 @@
 ## Als Nächstes:
 Fast Questions
 Long Questions
-[[Question - Why Krylov better than normal SVD]]
+[[Question - Why Krylov SVD better than normal SVD]]
 [[Question - What other linear solvers with Krylov exist]]
 - Blocked: [[Question - Compare numerical Runntimes of Arnoldi, Lanceros, min, others]]
 Aditional

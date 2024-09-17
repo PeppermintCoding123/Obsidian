@@ -1,6 +1,6 @@
 Github sourcs code on SVD:
 https://github.com/numpy/numpy/blob/main/numpy/linalg/umath_linalg.cpp
-[[Question - Why Krylov better than normal SVD]]
+[[Question - Why Krylov SVD better than normal SVD]]
 #NumEig
 #### general overviev:
 - in c++
