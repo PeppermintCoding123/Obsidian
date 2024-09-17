@@ -23,9 +23,20 @@
 #### Solve linear System Problem
 [[Question - What other linear solvers with Krylov exist]]
 ##### Symmetric Systems
+-  [[CG - conjugate gradient]]
+	- SPD
+- CR - Conjugate residual [[Variational iterative methods for nonsymmetric systems of linear equations]]
+	- SPD
+- [[MINRES - Solution of Sparse Indefinite Systems of Linear Equations]] 
+	- Symmetric but indefinite
 ##### Nonsymmetric Systems
 - minimize
 -  [[GMRES]]
+	- randome matrix
+- [[GCR - generalized conjugate residual method]]
+	- positive real $A$ / the symmetric part of $A$ is real
+- [[Orthomin]] 
+	- the symmetric part of $A$ is real
 - [[A hybrid Arnoldi-Faber iterative method for nonsymmetric systems of linear equations]]
 	- verry complicated
 	- #TODO Implement
@@ -37,12 +48,8 @@
 	- #TODO Implement
 Unsorted
 #TODO read & Implement other methods
-- [[GCR - generalized conjugate residual method]]
 - [[Generalized conjugate-gradient acceleration of nonsymmetrizable iterative methods]] 
-- [[Orthomin]]
 - [[SYMMLQ]] - SPD
-- [[MINRES - Solution of Sparse Indefinite Systems of Linear Equations]] - SPD
--  [[CG - conjugate gradient]]
 -  [[A hybrid Chebyshev Krylov subspace algorithm for solving nonsymmetric systems of linear equations]]
 - [[A hybrid GMRES algorithm for nonsymmetric matrix iterations.]]
 - [[Arnoldi-based model reduction for fractional order linear systems]]

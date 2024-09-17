@@ -54,5 +54,5 @@ mit $\beta = ||r_0||$, $e_1 =$ Einheitsvector der größe $k+1$, $V_k$ dind ie e
 (10) [[MINRES - Solution of Sparse Indefinite Systems of Linear Equations]]  Solution of Sparse Indefinite Systems of Linear Equations, [C. C. Paige](https://epubs.siam.org/doi/abs/10.1137/0712047#con1) and [M. A. Saunders](https://epubs.siam.org/doi/abs/10.1137/0712047#con2)
 - using Lanczos basis to compute residual Norm of Krylov Subspace
 (9) [[Generalized conjugate-gradient acceleration of nonsymmetrizable iterative methods]]
-(5) [[GCR - Variational iterative methods for nonsymmetric systems of linear equations]] 
+(5) [[Variational iterative methods for nonsymmetric systems of linear equations]] 
 	(16) has extention on this

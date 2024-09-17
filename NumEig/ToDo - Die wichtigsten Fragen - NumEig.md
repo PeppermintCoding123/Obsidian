@@ -3,7 +3,6 @@
 [[Überblick Numerische Eigenwerte - Krylov Subspaces]] 
 ## Als Nächstes:
 Fast Questions
-[[Question - For what types of matricies do Arnoldi and Lanceros work verry wel?]]
 Long Questions
 [[Question - Why Krylov better than normal SVD]]
 [[Question - What other linear solvers with Krylov exist]]
@@ -12,6 +11,7 @@ Aditional
 - [[Question - What matrix-properties are retained by transformation into smaller space?]]
 	- retalted to [[D.Question - How dose Krylov SVD compare to Krylov Cholesky]]
 #### Done Questions
+[[D.Question - For what types of matricies do Arnoldi and Lanceros work verry well]]
 [[D.Question - How dose Krylov SVD compare to Krylov Cholesky]]
 [[D.Question - How dose Arnorldi and Lanceros work]]
 [[D.Question - Is conjugate Gradients a simmilarly good approximation to Krylov]]
