@@ -6,12 +6,11 @@ Done: 14.08.2024
 - ~~Implement in Python~~
 
 #LanczosAlgorithm 
-#TODO: 15.08.2024
+TODO: 15.08.2024
 - ~~Read in the Book how Lanczos works~~
 - ~~watch a YouTube-Video on the implementation of Lanczos~~
 - Implement in Python
 
-TODO:
 Further Youtube Videos:
 https://www.youtube.com/watch?v=ia_ZiKLw4mk
 - Block Arnoldi - An improvement on arnoldi?

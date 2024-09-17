@@ -1,5 +1,5 @@
 https://www.youtube.com/watch?v=7btK_Tzvx4I
-
+#NumEig 
 
 #### Some explenations of getting to Lanczos 
 [[7.5 Symmetric Lanczos algorithm]] in more detail here: 

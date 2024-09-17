@@ -1,4 +1,4 @@
-[[numpy.linalg.SVD]] NumEigNumerischeEigenwerte 
+[[numpy.linalg.SVD]] #NumEig
 performed on parameters
 call LAPACK's Singular Value Decomposition (SVD)
 

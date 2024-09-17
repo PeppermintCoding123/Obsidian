@@ -1,4 +1,4 @@
-NumEigNumerischeEigenwerte #ArnoldiIteration 
+#NumEig #ArnoldiIteration 
 [[Numerical Methods for Eigenvalue Problems - Steffen Börn, Christian Mehl]]
 
 using [[Modified Gram-Schmidt procedure with reorthogonalisation]]

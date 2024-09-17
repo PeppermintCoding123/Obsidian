@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=YeS4gvu4EhI
+#NumEig 
 
 choose $b$ arbitrarily
 $q_1 = b/||b||_2$, $q_2,...,q_k$ be known

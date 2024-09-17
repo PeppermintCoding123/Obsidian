@@ -1,4 +1,5 @@
 https://gist.github.com/iizukak/1287876?permalink_comment_id=1871542#gistcomment-1871542
+#NumEig 
 ```
 def gram_schmidt(vectors):  
 	basis = []  

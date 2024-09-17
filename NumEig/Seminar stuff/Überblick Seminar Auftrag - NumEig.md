@@ -1,4 +1,4 @@
-#NumEigNumerischeEigenwerte #### Überblick
+#NumEig #### Überblick
 - Präsentieren, worum es in Kapitel 7 geht
 - Wo finden [[Krylov Subspace]] Anwendung in Numerik
 	- Erwähnen, nicht erklähren

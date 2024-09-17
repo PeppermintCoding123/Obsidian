@@ -1,4 +1,4 @@
-[[numpy.linalg.SVD]] NumEigNumerischeEigenwerte 
+[[numpy.linalg.SVD]] #NumEig
 assighning rows and strides?
 ```static inline void
 init_linearize_data(LINEARIZE_DATA_t *lin_data,

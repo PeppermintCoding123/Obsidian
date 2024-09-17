@@ -1,5 +1,5 @@
 https://link.springer.com/article/10.1007/BF01388688
-
+#NumEig 
 Begind with #ArnoldiIteration Arnoldi & then Richardson iterative method based on Faber polynomials
 konverges
  is approximately as fast or faster than the hybrid GMRES or restarted versions of the GMRES algorithm
@@ -28,7 +28,7 @@ Faber polynomials are a generalisation of Chebycheff polynomials
 (36) [[CGS, A Fast Lanczos-Type Solver for Nonsymmetric Linear systems]]
 (40) [[A comparison of the successive overrelaxation method and semi-iterative methods using Chebyshev polynomials]]
 (10) [[A hybrid Chebyshev Krylov subspace algorithm for solving nonsymmetric systems of linear equations]]
-(26) [[A hybrid GMRES algorithm for nonsym- metric matrix iterations.]]
+(26) [[A hybrid GMRES algorithm for nonsymmetric matrix iterations.]]
 
 
 #### 2. Outline of the hybrid Arnoldi-Faber method
@@ -51,3 +51,4 @@ $x_1:=1/c_0 r_{old} + x_{old}$
 $x_j := -(F_{j-1}(0)r_{j-1} + \sum_{i=0}^{j-2} c_(i)F_{j-1-i}(0)x_{j-1-i} + jc_{j-1}x_{old})/(c\cdot F_j(0))$
 ...
 this requires $F_i(0)$ and right now I wolud rather look at other procects that I can implement.
+ 

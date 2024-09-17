@@ -1,5 +1,0 @@
-- Projektionsverfahren
-- Interpolation der Ubertragungsfunktion mit Hilfe eines Momentenabgleiches - Moment-Matching-Methoden
-- numerisch stabiler: Verwendung von Projektionsmatrizen, deren Spaltenvektoren Basen von geeigneten Krylov-Unterr¨aumen darstellen
-	- Momentabgleicheigenschaften implizit zu erhalten
-	- 8.4.3

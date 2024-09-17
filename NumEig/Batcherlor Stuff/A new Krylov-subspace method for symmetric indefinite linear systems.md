@@ -1,15 +1,15 @@
 https://www.osti.gov/biblio/10190810
 https://www.osti.gov/servlets/purl/10190810
-
+#NumEig 
 #### Abstract
-In komparrison to [[SYMMLQ]] and [[MINERS]] wich require symetric positive definite Matriesies
+In komparrison to [[SYMMLQ]] and [[MINRES - Solution of Sparse Indefinite Systems of Linear Equations]] wich require symetric positive definite Matriesies
 for solving symmetric indefinite linear systems => combined with arbritary symmetric precondition
 special case of quasi-minimal residual method for general non-Hermitian linear systems
-converges quicker as [[SYMMLQ]] and [[MINERS]]
+converges quicker as [[SYMMLQ]] and [[MINRES - Solution of Sparse Indefinite Systems of Linear Equations]]
 
 #### Intro
 in example: Fiite-difference or finite element approximatoion using stabilised discretisation lead to linear system with symmetric matrix
-Standard Conjugate Gradient Methods are [[SYMMLQ]] and [[MINERS]]. 
+Standard Conjugate Gradient Methods are [[SYMMLQ]] and [[MINRES - Solution of Sparse Indefinite Systems of Linear Equations]]. 
 - based on Lanczos prosess for symetric matrices
 - preconditioning Matrix should be pdf itself.
 Here: new method can be combined with arbritary symmetric preconditioners
@@ -95,3 +95,5 @@ $r_n$ is BCG residual, not the residual of $x_n,A,b$.
 - Algorithmus basiert auf Lanczos mit der Art wie man $d_n$ berechnet 
 - ich checke nicht wofür man die Linke seite braucht?
 - Wie Wähle ich $M$?
+
+#TODO

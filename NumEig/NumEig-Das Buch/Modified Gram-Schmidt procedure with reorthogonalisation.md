@@ -1,4 +1,4 @@
-NumEigNumerischeEigenwerte 
+#NumEig
 [[Numerical Methods for Eigenvalue Problems - Steffen Börn, Christian Mehl]]
 
 [[Modified Gram-Schmidt procedure for vectors v1, .... , vm in F^n]]

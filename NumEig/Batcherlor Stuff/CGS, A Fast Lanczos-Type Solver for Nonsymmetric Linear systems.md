@@ -1,6 +1,7 @@
 https://epubs.siam.org/doi/abs/10.1137/0910004
 Siehe PDF
 Conjugate Gradients Squared
+#NumEig 
 
 ##### Abstract:
 #LanczosAlgorithm
@@ -8,7 +9,7 @@ Based on polynomial variant of the [[CG - conjugate gradient]] algorithm
 
 #### 1. Introduction
 CG is simple for SPD-matricies, but for non-SPD => problems.
-Generalisations: Generalised Conjugate Gradients, Orthomin, Orthodir, Bi-Conjugate Gradients, Induced Dimension
+Generalisations: Generalised Conjugate Gradients, [[Orthomin]], [[Orthodir]], Bi-Conjugate Gradients, Induced Dimension
 Reduction, variants of Petrov-Galerkin approach
 Most use preconditioning
 

@@ -1,9 +1,11 @@
 Saad, Y. and Schultz, M.H.: "GMRES: A Generalized Minimal Residual Algorithm for Solving Nonsymmetric Linear Systems," SIAM Journal on Scientific and Statistical Computing ( 1986) 856.
 https://cs.yale.edu/publications/techreports/tr254.pdf
-#NumEigNumerischeEigenwerte 
 
-= generalisation of [[MINERS]] for solving nonsymmetric linear systems based on #ArnoldiIteration
-simmilar to [[GCR - generalized conjugate residual method]], [[ORTHODIR]] 
+#ArnoldiIteration
+#NumEig
+
+= generalisation of [[MINRES - Solution of Sparse Indefinite Systems of Linear Equations]] for solving nonsymmetric linear systems based on #ArnoldiIteration
+simmilar to [[GCR - generalized conjugate residual method]], [[Orthodir]] 
 when $A$= positive real- produces $x_k$ sequence
 when $A$= not positive real GCR breaks down and ORTHODIR is numerically less stable than GCR
 
@@ -47,3 +49,10 @@ Iterate: for $j = 1,2,...$ do:
 Approximate Solution: $x_k = x_0 + V_ky_k$ where $y_k$ minimizes $J(y)= ||\beta e_1 - \overline{H}_k y||$
 
 mit $\beta = ||r_0||$, $e_1 =$ Einheitsvector der größe $k+1$, $V_k$ dind ie ersten $k$ Vektoren des Orthonormalsystems von arnoldi, $\overline{H}_k$ ist die $(k+1)\times k$-matrix von arnoldi
+
+
+(10) [[MINRES - Solution of Sparse Indefinite Systems of Linear Equations]]  Solution of Sparse Indefinite Systems of Linear Equations, [C. C. Paige](https://epubs.siam.org/doi/abs/10.1137/0712047#con1) and [M. A. Saunders](https://epubs.siam.org/doi/abs/10.1137/0712047#con2)
+- using Lanczos basis to compute residual Norm of Krylov Subspace
+(9) [[Generalized conjugate-gradient acceleration of nonsymmetrizable iterative methods]]
+(5) [[GCR - Variational iterative methods for nonsymmetric systems of linear equations]] 
+	(16) has extention on this

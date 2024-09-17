@@ -1,4 +1,4 @@
-NumEigNumerischeEigenwerte #KrylovSubspace 
+#NumEig #KrylovSubspace 
 [[Numerical Methods for Eigenvalue Problems - Steffen Börn, Christian Mehl]]
 [[7.2 Krylov subspace]]
 

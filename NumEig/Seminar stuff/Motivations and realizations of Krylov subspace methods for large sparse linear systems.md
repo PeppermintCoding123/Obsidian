@@ -1,5 +1,6 @@
 https://www.sciencedirect.com/science/article/pii/S0377042715000370
 - comparring diffarent methords
+#NumEig 
 #### 1 Introduction
 combination of direct method lower-upper triangular and the orthogonal-triangular factorizations and itterative methods with matrix-splitting or krylov-subspaces
 
@@ -27,6 +28,10 @@ linear subspace, the kth [[7.2 Krylov subspace]] : $K_k(A,b) = span(b, Ab, ..., 
 - nonsymmetric and non-diagonalizable - further reading
 - "how a good approximation from the Krylov subspace can be computed with a moderate amount of work and storage"
 	- compute Orthonormal basis for krylov, with Gram Schmidt or Arnoldi
-#NumEigNumerischeEigenwerte 
+
+Also
+[[7.4 Arnoldi iteration]]
+[[GMRES]]
+[[Preconditioning]] 
 
 #TODO das in Warum gute Approx inkorperieren

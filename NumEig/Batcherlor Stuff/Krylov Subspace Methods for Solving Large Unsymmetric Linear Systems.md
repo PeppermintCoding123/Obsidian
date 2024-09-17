@@ -1,5 +1,6 @@
 https://www.ams.org/journals/mcom/1981-37-155/S0025-5718-1981-0616364-6/S0025-5718-1981-0616364-6.pdf
 
+#NumEig 
 methods generalizing [[CG - conjugate gradient]] to unsymmetric systems = extentions on #ArnoldiIteration for solving Eigenvalue Problems
 
 #### Introduction

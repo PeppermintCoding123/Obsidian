@@ -1,4 +1,4 @@
-NumEigNumerischeEigenwerte 
+#NumEig
 [[Numerical Methods for Eigenvalue Problems - Steffen Börn, Christian Mehl]]
 
 begin

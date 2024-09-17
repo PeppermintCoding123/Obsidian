@@ -1,5 +1,6 @@
 https://www.sciencedirect.com/science/article/pii/0168927493900878
 Siehe PDF
+#Numeig
 
 #LanczosAlgorithm 
 Transform Matrix into similar tridiagonal matrix, also solve system linear equasions

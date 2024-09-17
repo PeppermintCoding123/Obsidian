@@ -1,4 +1,4 @@
-[[numpy.linalg.SVD]] NumEigNumerischeEigenwerte 
+[[numpy.linalg.SVD]] #NumEig
 ```
 template<typename typ>
 static inline void *

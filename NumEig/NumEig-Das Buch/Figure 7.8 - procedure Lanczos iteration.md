@@ -1,4 +1,4 @@
-[[7.5 Symmetric Lanczos algorithm]] NumEigNumerischeEigenwerte 
+[[7.5 Symmetric Lanczos algorithm]] #NumEig 
 
 procedure arnoldi_iteration($A,x, var \; q_1,...q_m, \alpha_1,..., \alpha_m,\beta_1,...,\beta_{m-1}$)
 begin
