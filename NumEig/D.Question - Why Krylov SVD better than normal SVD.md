@@ -15,6 +15,3 @@ Posibilities:
 2. The Orthogonalization Stretches the space in the direction of the biggest Eigenvector
 	- If I look at the error for the last Eigenpair, the result is different...
 	- Also, I should get a simmilar result for QR and any other used method.
-
-#TODO: nach Abendessen
-1. Test Accuracy QR & Krylov QR
