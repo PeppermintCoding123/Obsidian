@@ -2,15 +2,31 @@
 #TODO: 
 [[Überblick Numerische Eigenwerte - Krylov Subspaces]] 
 ## Als Nächstes:
-[[Quest - Adapt Tester 1 Matrix & Gradual increase of Krylov-Subspace]]
-- [[Quest - Aapt Tester Display Erwartungswert & Varianz]]
-	- [[Quest - Compare Cholesky full with Krylov SVD by gradually adding more subspaces]]
-	- [[Quest - Compare Cholesky & Krylov SVD with something not symmetrisch for Choleky alternative]]
-	- [[Quest - Test CG & Krylov]]
-	- [[Quest - Choose 2 Important Methods (GMRES & GCR(K)) & test in comparison to baseline]]
+1. Dimension bis 1000 gehen lassen
+2. Standardabweichung, nicht Varianz
+	1. Done for LGS
+3. Check Krylov:
+	1. Q sollte Unitär sein
+4. Für alle Einzeln
+	1. [[Quest - LGS fehler lösen]]
+	2. Eigenpair:
+		1. Add a test for calcEigenpair
+		2. SVD & KRxlovSVD sollten gleich werden
+		3. QR sollte exakt sein
+		4. SVD sollte auch exakt sein, wenn k->n 
 
 
 
+
+
+
+Done: 
+- [[Quest - Compare Cholesky full with Krylov SVD by gradually adding more subspaces]]
+- [[D.Quest - Adapt Tester 1 Matrix & Gradual increase of Krylov-Subspace]]
+- [[D.Quest - Aapt Tester Display Erwartungswert & Varianz]]
+- [[D.Quest - Test CG & Krylov]]
+- [[D.Quest - Choose 2 Important Methods (GMRES & GCR(K)) & test in comparison to baseline]]
+- - [[D.Quest - Compare Cholesky & Krylov SVD with something not symmetrisch for Choleky alternative]]
 #### Done Questions
 [[D.Question - For what types of matricies do Arnoldi and Lanceros work verry well]]
 [[D.Question - How dose Krylov SVD compare to Krylov Cholesky]]
