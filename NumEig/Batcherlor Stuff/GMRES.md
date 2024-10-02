@@ -50,6 +50,8 @@ Approximate Solution: $x_k = x_0 + V_ky_k$ where $y_k$ minimizes $J(y)= ||\beta 
 
 mit $\beta = ||r_0||$, $e_1 =$ Einheitsvector der größe $k+1$, $V_k$ dind ie ersten $k$ Vektoren des Orthonormalsystems von arnoldi, $\overline{H}_k$ ist die $(k+1)\times k$-matrix von arnoldi
 
+See also [[Motivations and realizations of Krylov subspace methods for large sparse linear systems]] Section 3
+
 
 (10) [[MINRES - Solution of Sparse Indefinite Systems of Linear Equations]]  Solution of Sparse Indefinite Systems of Linear Equations, [C. C. Paige](https://epubs.siam.org/doi/abs/10.1137/0712047#con1) and [M. A. Saunders](https://epubs.siam.org/doi/abs/10.1137/0712047#con2)
 - using Lanczos basis to compute residual Norm of Krylov Subspace

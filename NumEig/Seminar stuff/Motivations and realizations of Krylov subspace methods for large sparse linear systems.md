@@ -35,3 +35,18 @@ Also
 [[Preconditioning]] 
 
 #TODO das in Warum gute Approx inkorperieren
+
+
+### Section 3
+
+#### Last method: this is my KrylovLstsq
+$r_k = b-Ax_k$
+$\mathcal{K}_k(A,r_0) = span\{r_0, Ar_0,...,A^{k-1} r_0\}$
+$r_k\in r_0-A\mathcal{K}_k(A,r_0)$
+$K_k = (r_0,Ar_0,...,A^{k-1}r_0)$
+$AK_k = (Ar_0, A^2r_0,..., A^kr_0)$
+=> space of the columns of this matrix is $A\mathcal{K}_k$.
+We can find vector: $c\in \mathbb{R}^k$ s.t. $||r_0-AK_kc||$ is minimized
+($c$ can be computed by QR-factorisation of $AK_k$)
+$x_k = x_0 + K_kc$
+this might be numerically unstable

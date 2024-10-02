@@ -2,31 +2,30 @@
 #TODO: 
 [[Überblick Numerische Eigenwerte - Krylov Subspaces]] 
 ## Als Nächstes:
-1. Dimension bis 1000 gehen lassen
-2. Standardabweichung, nicht Varianz
-	1. Done for LGS
-3. Check Krylov:
-	1. Q sollte Unitär sein
-4. Für alle Einzeln
-	1. [[Quest - LGS fehler lösen]]
-	2. Eigenpair:
-		1. Add a test for calcEigenpair
-		2. SVD & KRxlovSVD sollten gleich werden
-		3. QR sollte exakt sein
-		4. SVD sollte auch exakt sein, wenn k->n 
+- [[Quest - Wright Batchelor]]
+- [[Quest - replace the wierd number with the exponent of the max-norm]]
+- [[Quest - in LS - start from 1 & do more finer stepps]]
+	- Blocked by the above[[Quest - Redo -Test CG & Krylov]]
+	
+	- Blocked for is much time exists [[Quest - Redo - Choose 2 Important Methods (GMRES & GCR(K)) & test in comparison to baseline]]
 
+- [[Quest - in EP - do smaller staps & start at 1]]
+- [[Quest - Compare with Power-method]]
+- [[Quest - Compare Cholesky full with Krylov SVD by gradually adding more subspaces]]
 
+- [[Quest - Create good pictures for all stuff you need in Batchelor, with diffarent types of matricies]]
+
+Questions:
+- what to do for really bad matricies? [[Quest - in LS - Generate Laplace or inverse Laplace matrix & compare if normalisation neccacary]]
 
 
 
 
 Done: 
-- [[Quest - Compare Cholesky full with Krylov SVD by gradually adding more subspaces]]
+- [[D.Quest - Debug untill working]]
 - [[D.Quest - Adapt Tester 1 Matrix & Gradual increase of Krylov-Subspace]]
 - [[D.Quest - Aapt Tester Display Erwartungswert & Varianz]]
-- [[D.Quest - Test CG & Krylov]]
-- [[D.Quest - Choose 2 Important Methods (GMRES & GCR(K)) & test in comparison to baseline]]
-- - [[D.Quest - Compare Cholesky & Krylov SVD with something not symmetrisch for Choleky alternative]]
+- [[D.Quest - Compare Cholesky & Krylov SVD with something not symmetrisch for Choleky alternative]]
 #### Done Questions
 [[D.Question - For what types of matricies do Arnoldi and Lanceros work verry well]]
 [[D.Question - How dose Krylov SVD compare to Krylov Cholesky]]
