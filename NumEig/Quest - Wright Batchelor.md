@@ -27,7 +27,12 @@ git push -u origin main
 #TODO: next:
 - Write on the result of the linear systems image you will get next.
 - Write on the implementation of Krylov subspace and oveerflow-errors
+- Runn for 1st Eigenpair
+- Research & Implement Power-method
+
+
+Tonight:
 - When Home: run speed-test for the new KrylovLSTSQ
 
-- Research & Implement Power-method
+- Check if GMRES Implementation is correct....
 -  Write on how the Arnoldi-itteration works from the [[GMRES]]-paper & the book description - in section 7.4

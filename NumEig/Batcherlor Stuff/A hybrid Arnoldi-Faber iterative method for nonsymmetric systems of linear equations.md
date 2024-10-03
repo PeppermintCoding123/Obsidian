@@ -9,7 +9,7 @@ konverges
 $Ax=b$ large sparce real nonsymmetric and nonsingular system of linear equasions
 start with iterative method & swich to parameter-dependend method
 usually
-Eigenvalue-Info by modified [[power itteration]] or #ArnoldiIteration 
+Eigenvalue-Info by modified [[power itteration - Praktische Verfahren der Gleichungsauflösung]] or #ArnoldiIteration 
 second phase with Chebyshev iteration, second-order Richardson iteration 
 Hybrid [[GMRES]]
 
