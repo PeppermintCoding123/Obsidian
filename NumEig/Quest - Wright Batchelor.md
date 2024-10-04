@@ -12,7 +12,9 @@
 	- 6 on Linear systems 
 		- 4 for Lstsq & its discussion
 			- ~~theory
-			- implementation
+			- implementation - write on them individually
+				- Runntime
+				- Accuracy
 			- results
 		- 1 for GMRES
 		- 1 for GCR(k)
@@ -20,19 +22,8 @@
 
 Heres how to Git:
 in Git Batch:
+git add .
 git commit -m "commit message"
 git push -u origin main
 
 
-#TODO: next:
-- Write on the result of the linear systems image you will get next.
-- Write on the implementation of Krylov subspace and oveerflow-errors
-- Runn for 1st Eigenpair
-- Research & Implement Power-method
-
-
-Tonight:
-- When Home: run speed-test for the new KrylovLSTSQ
-
-- Check if GMRES Implementation is correct....
--  Write on how the Arnoldi-itteration works from the [[GMRES]]-paper & the book description - in section 7.4

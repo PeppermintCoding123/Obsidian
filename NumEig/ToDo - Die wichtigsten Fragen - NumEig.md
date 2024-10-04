@@ -3,6 +3,20 @@
 [[Überblick Numerische Eigenwerte - Krylov Subspaces]] 
 ## Als Nächstes:
 - [[Quest - Wright Batchelor]]
+	- - ~~Write on the result of the linear systems image you will get next.
+	- ~~Write on the implementation of Krylov subspace and oveerflow-errors
+	- ~~Runn for non-hermetian Matrix
+	- ~~Runn for 1st Eigenpair -
+	- ~~When Home: run speed-test for the new KrylovLSTSQ with hermetian matrix & remove edits in Creating Krylov base.
+	- ~~Research & Implement Power-method [[power itteration - Praktische Verfahren der Gleichungsauflösung]]
+	- Check if GMRES Implementation is correct....
+	-  Write on how the Arnoldi-itteration works from the [[GMRES]]-paper & the book description - in section 7.4
+
+	Create Graphs:
+	- Power acccuracy
+	- Power Speed
+	- Other
+
 - [[Quest - replace the wierd number with the exponent of the max-norm]]
 - [[Quest - in LS - start from 1 & do more finer stepps]]
 	- Blocked by the above[[Quest - Redo -Test CG & Krylov]]
