@@ -3,27 +3,26 @@
 [[Überblick Numerische Eigenwerte - Krylov Subspaces]] 
 ## Als Nächstes:
 - [[Quest - Wright Batchelor]]
-	- - ~~Write on the result of the linear systems image you will get next.
-	- ~~Write on the implementation of Krylov subspace and oveerflow-errors
-	- ~~Runn for non-hermetian Matrix
-	- ~~Runn for 1st Eigenpair -
-	- ~~When Home: run speed-test for the new KrylovLSTSQ with hermetian matrix & remove edits in Creating Krylov base.
-	- ~~Research & Implement Power-method [[power itteration - Praktische Verfahren der Gleichungsauflösung]]
-	- Check if GMRES Implementation is correct....
-	-  Write on how the Arnoldi-itteration works from the [[GMRES]]-paper & the book description - in section 7.4
+	- ~~Write - in theory - on how the Arnoldi-itteration works from the [[GMRES]]-paper & the book description - in section 7.4
+	- Reed Chapter 4 & Write  - in theory - section on why Krylov nerely linearly dependant.
+	- ~~Write - in theory - how GMRES Works
+	-  Write - in theory - how GCR_k works
+	- Write - in theory - how power-method works
+	- Write - in implementation - speed-test from 
 
 	Create Graphs:
-	- Power acccuracy
-	- Power Speed
-	- Other
+	- Power & SVD acccuracy
+	- Power & SVD Speed (runn only 20 iterations & add standard deviation...)
+	- GMRES & GCR_k accuracy
+	- GMRES & GCR_k & krylov_lstsq & Cholesky speed test (runn only 20 iterations & add standard deviation...)
 
 - [[Quest - replace the wierd number with the exponent of the max-norm]]
-- [[Quest - in LS - start from 1 & do more finer stepps]]
+- 
 	- Blocked by the above[[Quest - Redo -Test CG & Krylov]]
 	
 	- Blocked for is much time exists [[Quest - Redo - Choose 2 Important Methods (GMRES & GCR(K)) & test in comparison to baseline]]
 
-- [[Quest - in EP - do smaller staps & start at 1]]
+-  [[Quest - in EP - Hash ought numerical instability of Gram-Schmidt...]]
 - [[Quest - Compare with Power-method]]
 - [[Quest - Compare Cholesky full with Krylov SVD by gradually adding more subspaces]]
 
@@ -32,10 +31,18 @@
 Questions:
 - what to do for really bad matricies? [[Quest - in LS - Generate Laplace or inverse Laplace matrix & compare if normalisation neccacary]]
 
+###### Done on 03.10
+- ~~Write on the result of the linear systems image you will get next.
+- ~~Write on the implementation of Krylov subspace and oveerflow-errors
+- ~~Runn for non-hermetian Matrix
+- ~~Runn for 1st Eigenpair -
+- ~~When Home: run speed-test for the new KrylovLSTSQ with hermetian matrix & remove edits in Creating Krylov base.
+- ~~Research & Implement Power-method [[power itteration - Praktische Verfahren der Gleichungsauflösung]]
+- ~~Check if GMRES Implementation is correct....
+- ~~Quest - in LS - start from 1 & do more finer stepps
 
 
-
-Done: 
+#### Done Quests 
 - [[D.Quest - Debug untill working]]
 - [[D.Quest - Adapt Tester 1 Matrix & Gradual increase of Krylov-Subspace]]
 - [[D.Quest - Aapt Tester Display Erwartungswert & Varianz]]

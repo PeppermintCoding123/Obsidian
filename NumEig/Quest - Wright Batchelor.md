@@ -27,3 +27,7 @@ git commit -m "commit message"
 git push -u origin main
 
 
+# Konsistenzcheck am ende
+- bei allen $\_\{ij\}$ check dass ein Komma dazwischen kommt 
+- alle $\in$ mit zahlen danach haben ()
+- mak shure that all refferances are presens.
