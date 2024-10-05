@@ -31,7 +31,7 @@ $\sigma(X)$ = set of eigenvalues of $X$, spectrum of $X$
 $\kappa(X)=||X||_2||X^{-1}||_2$
 $\langle p_0,...,p_k \rangle$ = Space spanned by $p_0,...,p_k$
 
-#### 2. Descent methods for nonsylnmetrie systems.
+#### 2. Descent methods for nonsymetrie systems.
 $Ax=f$ solve this
 
 Algorithm 2.2.
