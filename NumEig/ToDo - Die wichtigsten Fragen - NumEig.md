@@ -4,17 +4,33 @@
 ## Als Nächstes:
 - [[Quest - Wright Batchelor]]
 	- ~~Write - in theory - on how the Arnoldi-itteration works from the [[GMRES]]-paper & the book description - in section 7.4
-	- Reed Chapter 4 & Write  - in theory - section on why Krylov nerely linearly dependant.
+	- ~~Reed Chapter 4 & Write  - in theory - section on why Krylov nerely linearly dependant.
 	- ~~Write - in theory - how GMRES Works
-	-  Write - in theory - how GCR_k works
-	- Write - in theory - how power-method works
+	-  ~~Write - in theory - how GCR_k works
+	- ~~Write - in theory - how power-method works
+	- ~~Write - in theory - GMRES & power iteration algorithms in figures
+	- Write - in implementation - power method Hermetian
+	- Write - in implementation - non Hermetian matricies
+	- Write - in implemetation - Speed Linear systems Hermetian
 	- Write - in implementation - speed-test from 
+		- SVD
+		- lstsq
+		- power & svd
+		- GMRES
+		- GCR(k)
+		- Cholesky compared to other algorithms
+	- Figure ought in what manor [[are CR or CG a Krylov subspace methods]] ....
 
 	Create Graphs:
 	- Power & SVD acccuracy
+	- power & svd on 100th EP
 	- Power & SVD Speed (runn only 20 iterations & add standard deviation...)
-	- GMRES & GCR_k accuracy
-	- GMRES & GCR_k & krylov_lstsq & Cholesky speed test (runn only 20 iterations & add standard deviation...)
+	- ~~GMRES & GCR_k accuracy
+	- ~~GMRES & GCR_k & krylov_lstsq & Cholesky speed test (runn only 20 iterations & add standard deviation...)
+	- Accuracy GMRES & GCR(k) in range under 15
+	- non Hermetian -  GMRES & GCR_k & krylov_lstsq
+	- AccuracyCholesky compared to other algorithms
+	- [[next Test runn]]
 
 - [[Quest - replace the wierd number with the exponent of the max-norm]]
 - 
