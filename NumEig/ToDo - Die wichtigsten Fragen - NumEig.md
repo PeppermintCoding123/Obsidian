@@ -2,6 +2,8 @@
 #TODO: 
 [[Überblick Numerische Eigenwerte - Krylov Subspaces]] 
 ## Als Nächstes:
+- understand the proof of GMRES to GCR
+- Do Linear systems speed test 
 - [[Quest - Wright Batchelor]]
 	- ~~Write - in theory - on how the Arnoldi-itteration works from the [[GMRES]]-paper & the book description - in section 7.4
 	- ~~Reed Chapter 4 & Write  - in theory - section on why Krylov nerely linearly dependant.
@@ -23,11 +25,10 @@
 
 	Create Graphs:
 	- Power & SVD acccuracy
-	- power & svd on 100th EP
-	- Power & SVD Speed (runn only 20 iterations & add standard deviation...)
+	- ~~Power & SVD Speed (runn only 20 iterations & add standard deviation...)
 	- ~~GMRES & GCR_k accuracy
-	- ~~GMRES & GCR_k & krylov_lstsq & Cholesky speed test (runn only 20 iterations & add standard deviation...)
-	- Accuracy GMRES & GCR(k) in range under 15
+	- GMRES & GCR_k & krylov_lstsq & Cholesky speed test (runn only 20 iterations & add standard deviation...)
+	- ~~Accuracy GMRES & GCR(k) in range under 15
 	- non Hermetian -  GMRES & GCR_k & krylov_lstsq
 	- AccuracyCholesky compared to other algorithms
 	- [[next Test runn]]

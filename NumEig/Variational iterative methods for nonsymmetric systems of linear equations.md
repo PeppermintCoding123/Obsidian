@@ -1,6 +1,6 @@
 https://epubs.siam.org/doi/abs/10.1137/0720023
 #NumEig See PDF
-
+1983
 
 #### Abstract:
 coefficient matrix is nonsymmetric with positive definite symmetric part. assosiated with [[CG - conjugate gradient]]
@@ -51,7 +51,7 @@ For $A$ = SPD
 $p_{i+1}=r_{i+1}+b_ip_i$
 $b_i = (Ar_{i+1},Ap_i)/(Ap_i,Ap_i)$
 
-method (2.2) & (2.3) equivalent to CR - conjugate reddual method
+method (2.2) & (2.3) equivalent to CR - conjugate reddual method [[CR - Relaxationsmethoden bester Strategie zur losung linearer Gleichungssystems,]]
 rdirection vectors produced are $A^TA$-orthogonal: $(Ap_i,Ap_j = 0 \quad \forall i\neq j)$
 $x_{i+1}$ minimize $E(w)=||f-Aw||_2$ over affine space $x_0+\langle p_0,...,p_i\rangle$
 

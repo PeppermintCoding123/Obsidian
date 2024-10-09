@@ -50,6 +50,8 @@ Approximate Solution: $x_k = x_0 + V_ky_k$ where $y_k$ minimizes $J(y)= ||\beta 
 
 mit $\beta = ||r_0||$, $e_1 =$ Einheitsvector der größe $k+1$, $V_k$ dind ie ersten $k$ Vektoren des Orthonormalsystems von arnoldi, $\overline{H}_k$ ist die $(k+1)\times k$-matrix von arnoldi
 
+Laut Herleitung: $J(y)= ||\beta e_1 - \overline{H}_k y|| = ||V_{k+1}[\beta e_1 - \overline{H}_k y]|| = ||\beta v_1 - AV_k y|| = ||\beta v_1 - V_k^*H_kV_k y||$
+
 See also [[Motivations and realizations of Krylov subspace methods for large sparse linear systems]] Section 3
 
 
