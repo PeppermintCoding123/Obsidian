@@ -2,6 +2,26 @@
 #TODO: 
 [[Überblick Numerische Eigenwerte - Krylov Subspaces]] 
 ## Als Nächstes:
+- Implemetierung fertig schreiben
+	- Power & SVD on Symmetrik
+	- Power & SVD on positive definite
+	- Power & SVD on randome
+	- ~~LSTSQ & Co describe how error is measured
+	- ~~LSTSQ & co on pos def non-Hermetian
+	- LSTSQ & co on random
+	- LSTSQ & co on speed
+	- LSTSQ stuff interpretation
+- ~~Mittagessen
+- ~~Litheraturverzeichniss schreiben.
+- refferenzen ausbessern & zur Bib file hinzufügen.
+- Schluss Schreiben
+
+- # Run:
+	- Power SVD non hermitian (random, non singular)
+	- Eigenvector stuff timeError
+	- LS random
+	- 
+
 - understand the proof of GMRES to GCR
 - Do Linear systems speed test 
 - [[Quest - Wright Batchelor]]
@@ -21,7 +41,7 @@
 		- GMRES
 		- GCR(k)
 		- Cholesky compared to other algorithms
-	- Figure ought in what manor [[are CR or CG a Krylov subspace methods]] ....
+	- ~~Figure ought in what manor [[are CR or CG a Krylov subspace methods]] ....
 
 	Create Graphs:
 	- Power & SVD acccuracy

@@ -29,7 +29,7 @@ Iterate: for $j = 1,2,...$ do:
 	$\hat{v}_{j+1}=Av_j-\sum_{i=1}^j h_{i,j}v_i$
 	$h_{j+1,j}=||\hat{v}_{j+1}||$
 	$v_{j+1}=\hat{v}_{j+1}/ h_{j+1,j}$ 
-Approximate Solution: $x_k = x_0 + V_ky_k$ where $y_k$ minimizes $y_k = H^{-1}_k||r_0||e_1$
+Approximate Solution: $x_k = x_0 + V_ky_k$ where  $y_k = H^{-1}_k||r_0||e_1$
 - problem: expensive as calculation continues.
 	- either restart orthogonalisation every m steps
 	- or truncate $l_2$-orthogonalisation - only orthogonal to previous $l$ vectors (IOM(l))
