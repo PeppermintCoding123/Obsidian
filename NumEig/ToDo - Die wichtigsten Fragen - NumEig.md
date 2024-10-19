@@ -3,24 +3,40 @@
 [[Überblick Numerische Eigenwerte - Krylov Subspaces]] 
 ## Als Nächstes:
 - Implemetierung fertig schreiben
-	- Power & SVD on Symmetrik
-	- Power & SVD on positive definite
-	- Power & SVD on randome
+	- Power & SVD on randome - MGS
+	- Power & SVD Speed -MGS
+		- dexcribe the Lamdau notation
+		- describe the graph
 	- ~~LSTSQ & Co describe how error is measured
 	- ~~LSTSQ & co on pos def non-Hermetian
 	- LSTSQ & co on random
 	- LSTSQ & co on speed
 	- LSTSQ stuff interpretation
+- Rewrite
+	- Implementierung SVD mit MGS intead of QR. Accept & Explain the numerical instability inherit in MGS.
 - ~~Mittagessen
 - ~~Litheraturverzeichniss schreiben.
+	- [[How to write Literaturereview]]
 - refferenzen ausbessern & zur Bib file hinzufügen.
 - Schluss Schreiben
+- Lstsq mit nicht-Krylov unterraum, sondern random, ist das verhalten gleich?
 
 - # Run:
-	- Power SVD non hermitian (random, non singular)
-	- Eigenvector stuff timeError
-	- LS random
-	- 
+	- ~~Power SVD non hermitian (random, non singular)
+	- ~~All LS random
+	- ~~Eigenvector stuff + Power  timeError
+	- ~~LS random - check for error in standarddeviation
+	- ~~LSTSQ random
+	- ~~power Eigenproblems random with Arnoldi in eigenpair solver 
+	- ~~Eigenvector SVD for less dominant EV
+	- ~~LS random 100 iterations - A_R_KrylovLstsq-GMRES-GCR-k_100_1.png
+	- ~~LS positive definite 100 itereations 
+	- ~~KRYLOVSVD comparring MGS and GS - A_H_EV1_SVD-KrylovSVD_gs_mgs_1_closeup1.png
+	- ~~Power & withought random 100 iterations 
+	- mGS 100th EP hermitian
+	- Power & withought hermitian100 iterations 
+	- PD LStsq, GMRES, GCRK,... 100 iterations
+	- LS Speed test with GCR full
 
 - understand the proof of GMRES to GCR
 - Do Linear systems speed test 
