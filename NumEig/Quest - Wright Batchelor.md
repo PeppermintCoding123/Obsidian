@@ -1,3 +1,4 @@
+
 # 1. Look at seminar and evalueate, what is still usefull & what needs to be reworked
 -  complile pdf & check that refferances apper. 
 - make copy of PDF & write on it what sections need to be done
@@ -20,7 +21,11 @@
 		- 1 for GCR(k)
 	- 1 for slot & final conclusion
 
-Heres how to Git:
+# 3. The poinzt of this thesis:
+- show that Krylov subspace method is better than just taking a random (identity) orthogonal base
+- Show that developing theory with Krylow subspace methods creates better numerical methods
+
+# Heres how to Git:
 in Git Batch:
 git add .
 git commit -m "commit message"
@@ -31,3 +36,10 @@ git push -u origin main
 - bei allen $\_\{ij\}$ check dass ein Komma dazwischen kommt 
 - alle $\in$ mit zahlen danach haben ()
 - mak shure that all refferances are presens.
+
+# Korrektur
+1. ~~Den Pink markierten = in Sofia korektur
+2. ~~Adjust Arnoldi into theory 2.2
+3. ~~Print as pdf & correkt
+4. Adjust as you can
+5. Go home

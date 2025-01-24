@@ -1,73 +1,21 @@
 
 #TODO: 
 [[Überblick Numerische Eigenwerte - Krylov Subspaces]] 
+
 ## Als Nächstes:
-- Implemetierung fertig schreiben
-	- Power & SVD on randome - MGS
-	- Power & SVD Speed -MGS
-		- dexcribe the Lamdau notation
-		- describe the graph
-	- ~~LSTSQ & Co describe how error is measured
-	- ~~LSTSQ & co on pos def non-Hermetian
-	- LSTSQ & co on random
-	- LSTSQ & co on speed
-	- LSTSQ stuff interpretation
-- Rewrite
-	- Implementierung SVD mit MGS intead of QR. Accept & Explain the numerical instability inherit in MGS.
-- ~~Mittagessen
-- ~~Litheraturverzeichniss schreiben.
-	- [[How to write Literaturereview]]
-- refferenzen ausbessern & zur Bib file hinzufügen.
-- Schluss Schreiben
-- Lstsq mit nicht-Krylov unterraum, sondern random, ist das verhalten gleich?
+- [[next Test runn]]
 
-- # Run:
-	- ~~Power SVD non hermitian (random, non singular)
-	- ~~All LS random
-	- ~~Eigenvector stuff + Power  timeError
-	- ~~LS random - check for error in standarddeviation
-	- ~~LSTSQ random
-	- ~~power Eigenproblems random with Arnoldi in eigenpair solver 
-	- ~~Eigenvector SVD for less dominant EV
-	- ~~LS random 100 iterations - A_R_KrylovLstsq-GMRES-GCR-k_100_1.png
-	- ~~LS positive definite 100 itereations 
-	- ~~KRYLOVSVD comparring MGS and GS - A_H_EV1_SVD-KrylovSVD_gs_mgs_1_closeup1.png
-	- ~~Power & withought random 100 iterations 
-	- mGS 100th EP hermitian
-	- Power & withought hermitian100 iterations 
-	- PD LStsq, GMRES, GCRK,... 100 iterations
-	- LS Speed test with GCR full
-
-- understand the proof of GMRES to GCR
-- Do Linear systems speed test 
+- [[How to write Literaturereview]]
 - [[Quest - Wright Batchelor]]
-	- ~~Write - in theory - on how the Arnoldi-itteration works from the [[GMRES]]-paper & the book description - in section 7.4
-	- ~~Reed Chapter 4 & Write  - in theory - section on why Krylov nerely linearly dependant.
-	- ~~Write - in theory - how GMRES Works
-	-  ~~Write - in theory - how GCR_k works
-	- ~~Write - in theory - how power-method works
-	- ~~Write - in theory - GMRES & power iteration algorithms in figures
-	- Write - in implementation - power method Hermetian
-	- Write - in implementation - non Hermetian matricies
-	- Write - in implemetation - Speed Linear systems Hermetian
-	- Write - in implementation - speed-test from 
-		- SVD
-		- lstsq
-		- power & svd
-		- GMRES
-		- GCR(k)
-		- Cholesky compared to other algorithms
-	- ~~Figure ought in what manor [[are CR or CG a Krylov subspace methods]] ....
 
-	Create Graphs:
-	- Power & SVD acccuracy
-	- ~~Power & SVD Speed (runn only 20 iterations & add standard deviation...)
-	- ~~GMRES & GCR_k accuracy
-	- GMRES & GCR_k & krylov_lstsq & Cholesky speed test (runn only 20 iterations & add standard deviation...)
-	- ~~Accuracy GMRES & GCR(k) in range under 15
-	- non Hermetian -  GMRES & GCR_k & krylov_lstsq
-	- AccuracyCholesky compared to other algorithms
-	- [[next Test runn]]
+
+Aditional read:
+### [Analysis of augmented **Krylov subspace methods**](https://epubs.siam.org/doi/abs/10.1137/S0895479895294289?casa_token=hM_-HlIXJ24AAAAA:rxti4g_KnvaLVUr3JhmDSjPzu7qj6MYVW6cz-Js3jC7LkSLLZYzFnyBAHKqj4830bvzwLkjlSg)
+https://onlinelibrary.wiley.com/doi/abs/10.1002/gamm.201490008?casa_token=UZpOlNKddKkAAAAA%3A2JwjwMcM5glSSjl85TuTce7CnUNcae4YHNSzMjW2kzsQ-2uSDHTQONVNjiglRNAjwf2w_7y4tXi3C2Q
+- convergence behaviour
+
+
+
 
 - [[Quest - replace the wierd number with the exponent of the max-norm]]
 - 
