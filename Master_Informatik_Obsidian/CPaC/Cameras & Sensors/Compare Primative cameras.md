@@ -5,7 +5,7 @@ Pros:
 - cheep
 Cons:
 - Needs much light
-- Only sharp for specific aperture size. [[Diffraction]] limits sharpness
+- Only sharp for specific aperture size. [[Diffraction 1]] limits sharpness
 
 # Lenses
 Pros:

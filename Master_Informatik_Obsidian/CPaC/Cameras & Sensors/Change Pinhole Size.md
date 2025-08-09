@@ -2,6 +2,6 @@
 
 A = Large Pinhole
 B = smaller Pinhole
-C = too small Pinhole showing [[Diffraction]]
+C = too small Pinhole showing [[Diffraction 1]]
 
 #Pinhole [[Pinhole Optics]]
