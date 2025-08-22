@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"00dbe93901ae57f2","type":"file","file":"SciVis/Interpolation on regular Grid.md","x":-127,"y":-93,"width":400,"height":773},
+		{"id":"eb4ea406274010c2","type":"text","text":"Das drucken! / Lernen / Verwänden","x":-200,"y":-123,"width":250,"height":60},
+		{"id":"d4b18057db4a4210","type":"text","text":"Frage 11","x":-192,"y":-192,"width":250,"height":60},
+		{"id":"2778c93b987fc5f1","type":"text","text":"Weiter Machen: ","x":-208,"y":-399,"width":250,"height":60},
+		{"id":"632ae7afe287baae","x":319,"y":-102,"width":400,"height":722,"type":"file","file":"SciVis/Finite Differances.md"},
+		{"id":"9126f8eb4b3b0dee","x":319,"y":-148,"width":250,"height":50,"type":"text","text":"Formeln Lernen!!!"}
+	],
+	"edges":[]
+}
