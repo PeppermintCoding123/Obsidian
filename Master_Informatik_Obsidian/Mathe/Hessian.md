@@ -1,0 +1,4 @@
+$$H(f) = \begin{pmatrix}
+\frac{\partial^2 f}{\partial x^2} & \frac{\partial^2 f}{\partial x\partial y}\\
+\frac{\partial^2 f}{\partial y\partial x} & \frac{\partial^2 f}{\partial y^2}
+\end{pmatrix}$$

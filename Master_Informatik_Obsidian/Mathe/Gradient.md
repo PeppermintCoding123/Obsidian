@@ -1,0 +1,1 @@
+$$\nabla f = \begin{pmatrix}\frac{\partial f}{\partial x}, & \frac{\partial f}{\partial y}\end{pmatrix}$$

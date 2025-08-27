@@ -1,0 +1,7 @@
+- Prevent thin triangle:
+	- ratio $\frac{incircle}{enclosing \; circle}$ large
+	- ratio $\frac{smallest}{largest}$ inner angel => large
+- artifact free
+- ![[Pasted image 20250827174444.png]]
+- [[Triangulation]]
+- 
