@@ -1,0 +1,5 @@
+[[Critical Points - Topology]]
+[[Boundary switch points - Topology]]
+[[Attatchment/ Detatchment points at non-slip boundaries - Toplogy]]
+[[Separatrisies - Topology]]
+[[Isolated closed streamlines - Topology]]
