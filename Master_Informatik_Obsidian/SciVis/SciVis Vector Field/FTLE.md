@@ -12,12 +12,12 @@ $$\nabla \phi(\mathrm{x}) = (\phi_x\; \phi_y)(\mathrm{x})=
 \frac{\phi_t^\tau(\mathrm{x}_{i,j+1}) - \phi_t^\tau(\mathrm{x}_{i,j-1})}
 {||\mathrm{x}_{i, j+1}-\mathrm{x}_{i,j-1}||}\end{pmatrix}$$
 = finite differences of right & left and top and bottom of point
-
+ 
 #### Cauchy-Green tensor $\mathbf{C}$
 $$\mathbf{C} = \Delta = \nabla \phi_t^\tau(\mathrm{x})^T\nabla \phi_t^\tau(\mathrm{x})$$
 - must be symmetric
 => [[EW]] of tensor: $\lambda_1<\lambda_2$
-
+ 
 # FTLE
 $${FTLE}(\mathrm{x}, t, \tau) = \frac{1}{|\tau|} \ln\sqrt{\lambda_{max}(\Delta)} = \frac{1}{|\tau|} \ln\sqrt{\lambda_{max}(\nabla \phi_t^\tau(\mathrm{x})^T\nabla \phi_t^\tau(\mathrm{x}))}$$
 - $\tau = +$=> forward-FTLE = $FTLE+$ =>  repelling structures

@@ -14,3 +14,5 @@ average along values
 
 => low correlation intensity & neighboring lines
 & hing correlation along lines
+
+![[Pasted image 20250906124934.png]]

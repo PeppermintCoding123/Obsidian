@@ -1,4 +1,4 @@
-= number of clockwise rotations of vector $\mathrm{v}$ while traveling counterclockwise on the closed curve $\mathrm{c}$ 
+= number of counterclockwise rotations of vector $\mathrm{v}$ while traveling counterclockwise on the closed curve $\mathrm{c}$ 
 
 #### 2D critical Points Poincare index
 $-1$ = saddle
