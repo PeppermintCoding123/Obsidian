@@ -15,5 +15,7 @@
 - fails for curved shear layers
 - Vortex must alighn with flow direction
 
+Assume steady & incompressible flows
 [[Q-criterion]]
 [[Okubo-Weiss criterion]]
+[[Lambda_2 - criterion]]

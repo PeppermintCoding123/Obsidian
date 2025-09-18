@@ -7,7 +7,7 @@ For Iso = 1:
 average= $\frac{9+3-4-3}{4} = 1.25$ > 1
 ## asymptomatic ambiguity
 $$h = f(h_r, h_s) = \frac{f_{00}\cdot f_{11} - f_{01}\cdot f_{10}}
-{f_{00}+ f_{11} - f_{01}\cdot f_{10}}$$
+{f_{00}+ f_{11} - f_{01}- f_{10}}$$
 $h_r$ = senkrechte Asymptote, $h_s$ = wagerecht Asymptote
 ![[Pasted image 20250829140746.png]]
 ![[Pasted image 20250829141249.png]]

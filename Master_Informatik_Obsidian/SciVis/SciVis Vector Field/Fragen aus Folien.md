@@ -38,9 +38,9 @@ Use spatial acceleration data structure such as bounding volume hierarchy
 - 1. Traverse the tree top-down and test all triangles within the lowest box (speicher zeug) p. 33
 - 2. start with inital guess & search the values around you
 #### What are advantages of unstructured grids?
-- sparce topology more efficiant & can yhange granuality / accuracy where it is important
+- sparce topology more efficiant & can change granuality / accuracy where it is important
 #### Given a set of scattered data points. How can their attributes be interpolated efficiently?
-- Shepard Interpolation
+- [[Shepard Interpolation]]
 #### How is triangle quality assessed?
 - Maximizes ratio of incircle to enclosing circle
 - Maximizes the smallest angle in all triangles
@@ -78,7 +78,7 @@ in 3D
 - maps scalar values to RGBA or other Colour space
 #### What is the difference between pre-classification and post-classification?
 pre: Transfer function , then trilinear interpolation
-post: first interpolate then use transfer function 
+post: first interpolate then use transfer function #Lernen
 #### Explain back-to-front and front-to-back compositing
 - ftb  ray & build as mowing 
 - btf shoot till end & calculate starting from the back
@@ -111,6 +111,7 @@ post: first interpolate then use transfer function
 - jes
 #### What can the contour tree be used for?
 - [[Persistence]] based topological denoising
+- Flexible Isosurfaces
 #### Does the contour tree construction algorithm work for any dimension?
 - [[Contour Tree Algorithm]]  jes, as long as we have a propper metric
 #### What is persistence?
@@ -219,12 +220,12 @@ Fold - collapsing of source, sink or saddle
 define f such that critical lines of s are streamlines of f als als grad v times gradient von v
 => find critical point in v with streamlineintegration in f
 #### What is the feature flow field in a steady flow?
-#Forum
+ = spatial distribution of fluid velocityies thooughout system with property that velocities remain constant over time at every fixed point in space
 
 #### Is the feature flow field divergence-free?
-#Forum 
+yes
 #### Can a streamline connect two saddles?
-jes in unsteady flow, no in steady flow
+yes in unsteady flow, no in steady flow
 #### Can we have critical points in time-dependent flows?
 neither s or p can have critical points, but v can have critical points
 ##### How many critical points can we have in a linear/trilinear vector field?
@@ -240,6 +241,7 @@ the intersector between the 2 stream-suffaces of foci
 #### When can we use streamline-oriented topology?
 (finding out topology when doing something with streamlines)
 - for instantanious fields page 96
+- 3D Unsteady Topology => per time slice
 
 # 11
 #### What is a vortex according to Lugt?
