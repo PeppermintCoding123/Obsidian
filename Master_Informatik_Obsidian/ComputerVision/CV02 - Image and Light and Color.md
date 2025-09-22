@@ -61,3 +61,5 @@ Other color spaces can decouple things
 
 Add picture of all diffarent color spaces
 ![[Drawing 2025-09-16 colorspaces.excalidraw]]
+
+Next: [[CV03 - Thinking in Frequency]]
