@@ -14,4 +14,4 @@
 - pixel spacing too large => **boundaries**
 	![[Pasted image 20250816142227.png]]
 
-#CompositionAndBlending
+#CompositionAndBlending [[CPaC_Overveiw.canvas|CPaC_Overveiw]]

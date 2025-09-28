@@ -5,4 +5,4 @@
 - Staircase Artifacts => [[Mesh Smoothing]]
 - Plateaus
 
-#SciVis #ScalarField 
+[[SciVis - overview.canvas|SciVis - overview]] #ScalarField 

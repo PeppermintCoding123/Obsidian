@@ -12,4 +12,4 @@ Similarity Triangles:
 Opposite side of lenses:
 $$\frac{y\;'}{y} = \frac{D\;'}{D}$$
 on focal length side of lens
-$$\quad \frac{y\;'}{y} = \frac{D\;'-f}{f}$$
+$$\quad \frac{y\;'}{y} = \frac{D\;'-f}{f}$$[[CPaC_Overveiw.canvas|CPaC_Overveiw]]

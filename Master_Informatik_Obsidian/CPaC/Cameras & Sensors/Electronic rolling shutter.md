@@ -9,3 +9,4 @@ R -> sensor currently being read
 There are ways to mediate motion blur and shutter movement
 => use accelerometer (measures acceleration of motion) & Giroscope
 & take a bigger image & cut it down to the correct size
+[[CPaC_Overveiw.canvas|CPaC_Overveiw]]

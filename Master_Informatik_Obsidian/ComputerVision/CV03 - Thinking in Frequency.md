@@ -25,13 +25,13 @@ $$*= h[m,n]= \sum_{k,l} f[k,l] I[m-k, n - l]$$
 - Identity: unit impulse   $e = [0,0,1,0,0] => a*e = a$
 
 # <span style="color:rgb(255, 221, 0)">Gaussian</span>
-$$G_\sigma = \frac{1}{2\pi\sigma^2}exp(\frac{-x^2+ y ^2}{2 \sigma ^2})$$
+$$G_\sigma = \frac{1}{2\pi\sigma^2}exp(\frac{-(x^2+ y ^2)}{2 \sigma ^2})$$
 - [[Low-pass filter]] 
 	- = blur = remove high frequencies
 - Gaussian times Gaussian = Gaussian
 ## Separable
 - convolve in 1 direction, then in 2. direction, instead of a 2D
-$$G_\sigma(x, y) = \frac{1}{2\pi\sigma^2}exp(\frac{-x^2+ y ^2}{2 \sigma ^2}) = (\frac{1}{\sqrt{2\pi}\sigma}exp(\frac{-x^2}{2 \sigma ^2}))*(\frac{1}{\sqrt{2\pi}\sigma}exp(\frac{-y^2}{2 \sigma ^2}))$$
+$$G_\sigma(x, y) = \frac{1}{2\pi\sigma^2}exp(\frac{-(x^2+ y ^2)}{2 \sigma ^2}) = (\frac{1}{\sqrt{2\pi}\sigma}exp(\frac{-x^2}{2 \sigma ^2}))*(\frac{1}{\sqrt{2\pi}\sigma}exp(\frac{-y^2}{2 \sigma ^2}))$$
 ##### Complexity
 $M\times N$ image & $P\times Q$ filter
 - $O(MNPQ)$ for 2D convolution
@@ -43,7 +43,7 @@ $M\times N$ image & $P\times Q$ filter
 # <span style="color:rgb(255, 221, 0)">Sobel Filter</span>
 $$G_x = \begin{bmatrix}   1 & 0 & -1\\
 2 & 0 & -2\\
-1 & 0& -1\end{bmatrix}, \quad G_x = \begin{bmatrix}   1 & 2 & 1\\
+1 & 0& -1\end{bmatrix}, \quad G_y = \begin{bmatrix}   1 & 2 & 1\\
 0& 0 & 0\\
 -1 & -2& -1\end{bmatrix}$$
 - Vertical & Horizontal Edges
@@ -130,3 +130,4 @@ Afterwords here:
 https://www.fau.tv/course/id/4224
 
 Next: [[CV04 - Edges and Corners]]
+CV - [[Computer Vision]] #ComputerVision 

@@ -114,3 +114,6 @@ Recover camera center = actual location of camera in world space
 $C = -R^{-1}t$
 
 - This all per single image calibration
+
+CV - [[Computer Vision]] #ComputerVision
+[[CV07 - Epipolar Geometry]]

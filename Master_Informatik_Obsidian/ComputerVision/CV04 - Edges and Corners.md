@@ -89,3 +89,6 @@ Interpreting M - second moment Matrix
 <span style="color:rgb(255, 133, 133)">linear RGB</span>
 - convert 0-255 to 0-1 and take everything to power of 2.2, calculate average & then reapply gamma again
 - $x \text{Linear} = x^y \text{sRGB}$
+
+[[CV05 - Features-Cameras-Optics-Perspective]]
+CV - [[Computer Vision]] #ComputerVision

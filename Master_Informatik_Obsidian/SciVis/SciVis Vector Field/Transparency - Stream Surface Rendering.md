@@ -3,3 +3,5 @@
 	- normal towards viewer = transparent
 	- normal away from viewer = opaque
 ![[Pasted image 20250904153630.png]]
+
+[[Streamlines]] #VectorField [[SciVis - overview.canvas|SciVis - overview]] 

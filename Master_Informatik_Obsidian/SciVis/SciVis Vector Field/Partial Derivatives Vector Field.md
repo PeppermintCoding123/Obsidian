@@ -1,14 +1,14 @@
-$$\frac{\partial \mathrm{v}}{\partial x} = \mathrm{v}_x = 
-\begin{pmatrix}
-\partial u /\partial x \\
-\partial v / \partial x \\
-\partial w / \partial x
-\end{pmatrix}
-= \begin{pmatrix}
-u_x \\
-v_x\\
-w_x
-\end{pmatrix}
-$$
+= number of counterclockwise rotations of vector $\mathrm{v}$ while traveling counterclockwise on the closed curve $\mathrm{c}$ 
 
-#VectorField #SciVis 
+#### 2D critical Points Poincare index
+$-1$ = saddle
+$+1$ = source, sink, center 
+
+![[Drawing PoinCare.excalidraw]]
+### 3D
+Source $0 < Re({\lambda_1}) \leq Re({\lambda_2})\leq Re({\lambda_3}) \Longrightarrow 1$
+Repelling saddles: $Re({\lambda_1}) <0< Re({\lambda_2})\leq Re({\lambda_3}) \Longrightarrow -1$
+Attracting saddles: $Re({\lambda_1}) \leq Re({\lambda_2})<0< Re({\lambda_3}) \Longrightarrow 1$
+Sinks: $Re({\lambda_1}) \leq Re({\lambda_2})\leq Re({\lambda_3}) < 0 \Longrightarrow 1$
+
+#VectorField [[SciVis - overview.canvas|SciVis - overview]]s - overview.canvas|SciVis - overview]]s - overview.canvas|SciVis - overview]]s - overview.canvas|SciVis - overview]] 

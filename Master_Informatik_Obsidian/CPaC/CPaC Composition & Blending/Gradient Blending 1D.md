@@ -5,4 +5,4 @@
 ![[Pasted image 20250816160945.png]]
 
 in 2D [[Poisson Image Editing]]
-#CompositionAndBlending
+#CompositionAndBlending [[CPaC_Overveiw.canvas|CPaC_Overveiw]]

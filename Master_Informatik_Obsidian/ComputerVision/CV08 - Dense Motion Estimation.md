@@ -126,3 +126,5 @@ Corr
 Percieve Illusion
 - pretnet - predickt how next frame should look like
 - apparent motion, when there is no real motion
+
+#ComputerVision [[Computer Vision]] [[CV09 - Stereo Vision]]

@@ -8,4 +8,4 @@ w_{xx} + w_{yy} + w_{zz}\end{pmatrix}$$
 -vector field = component-wise Laplacian
 
 [[Divergence]] [[Gradient in Vector field]]
-#ScalarField #SciVis #VectorField 
+#ScalarField [[SciVis - overview.canvas|SciVis - overview]] #VectorField 

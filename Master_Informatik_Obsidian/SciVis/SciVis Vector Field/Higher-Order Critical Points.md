@@ -6,4 +6,4 @@ Hyperbolic, elliptic parabolic
 - ![[Pasted image 20250901141452.png]]
 
 
-#VectorField #SciVis 
+#VectorField [[SciVis - overview.canvas|SciVis - overview]] 

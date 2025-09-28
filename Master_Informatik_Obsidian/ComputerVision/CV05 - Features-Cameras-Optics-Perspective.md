@@ -32,7 +32,7 @@
 	2. Select dominant $\theta$
 	3. Normalize to fixed orientation
 	4. ![[Pasted image 20250920162508.png]]
-2. Descriptor extraction
+5. Descriptor extraction
 	1. Image gradients in 8 bin histogram
 	2. 128 dim feature vector
 	3. scale magnitudes by Gaussian before adding
@@ -102,7 +102,7 @@ $[\mathbf{R\; t}]$ = Extrinsic Matrix
 Orthographic projection
 - Distance between Camera optical plane & image plane = infinite => parallel projection (x, y, z views)
 $$w \begin{bmatrix}u \\ v\\ 1\end{bmatrix} = \begin{bmatrix}1 & 0 & 0 & 0 \\ 0 & 1 &0 & 0\\ 0 & 0 & 0 & 1\end{bmatrix}\begin{bmatrix}x \\ y \\ z \\ 1\end{bmatrix}$$
-Scaled ortographic projection
+##### Scaled ortographic projection
 - Object dimensions are small compared to distance to camera
 $$w \begin{bmatrix}u \\ v\\ 1\end{bmatrix} = \begin{bmatrix}f & 0 & 0 & 0 \\ 0 & f &0 & 0\\ 0 & 0 & 0 & s\end{bmatrix}\begin{bmatrix}x \\ y \\ z \\ 1\end{bmatrix}$$
 # 05.3 SVD
@@ -116,3 +116,7 @@ $U^T U = V V^T = I$
 $A \cdot V= U \Sigma$
 
 Solving $Ax = b$ => $x = V \Sigma ^{-1} U ^T b$
+
+
+CV - [[Computer Vision]] #ComputerVision 
+[[CV06 - Camera Calibration]]

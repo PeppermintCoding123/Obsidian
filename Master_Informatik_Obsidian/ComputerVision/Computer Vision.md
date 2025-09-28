@@ -8,7 +8,7 @@
 [[CV04 - Edges and Corners]]
 [[CV05 - Features-Cameras-Optics-Perspective]]
 [[CV06 - Camera Calibration]]
-[[Epipolar Geometry]] 
+[[CV07 - Epipolar Geometry]] 
 [[CV09 - Stereo Vision]] 
 [[CV10 - Structured Light]]
 [[CV11 - Surface Reconstruction]]

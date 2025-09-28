@@ -12,3 +12,4 @@ $$f'(x) ≈ (f(x+h) − f(x−h)) / (2h)$$
 
 For all of them on <span style="color:rgb(0, 176, 240)"><b>2. derivative</b>:</span>
 $$f''(x) ≈ [f(x−h) − 2f(x) + f(x+h)] / h^2.$$=> precomputed weights for 
+[[Mathe]]

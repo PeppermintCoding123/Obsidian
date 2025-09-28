@@ -2,4 +2,6 @@
 Same direction => no chritical point
 if opposites are same
 else: subdevide
-#TODO
+
+[[Dimensional and Variate]]
+[[SciVis - overview.canvas|SciVis - overview]] 

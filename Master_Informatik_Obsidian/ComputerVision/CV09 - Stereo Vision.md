@@ -52,7 +52,11 @@ Ask:
 - How far do we have to go in image space & what is the cost 
 - ![[Pasted image 20250921163942.png]]
 - Sum of Squared Diffarences
+	- $SSD = = \sum_{i,j} (f(i,j)-g(i,j))$
+- Cross correlations
+	- $C = \sum_{i,j} = f(i,j)g(i,j)$
 - Normalized cross correlation
+	- 
 - Textureless regions are non-distinct => high ambiguety for matching
 
 ### How big Window
@@ -71,10 +75,12 @@ Ask:
 
 #### Stereo Matching as Energy minimization
 $$E = \alpha E_{data} (I_1, I_2, D) + \beta E_{smooth} (D)$$
-$$E_data = \sum_i (W_1(i) - W_2(i+D(i)))^2 \quad E_{smooth} = \sum_{neighbours\; i,j} \rho(D(i)-D(j))$$
+$$E_{data} = \sum_i (W_1(i) - W_2(i+D(i)))^2 \quad E_{smooth} = \sum_{neighbours\; i,j} \rho(D(i)-D(j))$$
 ### Challenges
 - low contrast
 - Occlusions
 - Brightness Violations - Specular reflections
 - Really large baselines - Foreshortening
-- Camera Callibration
+- Camera Calibration
+
+#ComputerVision [[Computer Vision]] [[CV10 - Structured Light]]

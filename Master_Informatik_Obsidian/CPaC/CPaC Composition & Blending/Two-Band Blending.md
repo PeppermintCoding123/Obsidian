@@ -4,4 +4,4 @@
 - high f => no smothing - binary alpha
 ![[Pasted image 20250816160514.png]]
 
-#CompositionAndBlending
+#CompositionAndBlending [[CPaC_Overveiw.canvas|CPaC_Overveiw]]

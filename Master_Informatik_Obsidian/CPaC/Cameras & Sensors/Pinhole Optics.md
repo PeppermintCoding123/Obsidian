@@ -5,3 +5,4 @@ s = sensor size
 d = distance between scene and pin-hole
 
 #Pinhole
+[[CPaC_Overveiw.canvas|CPaC_Overveiw]]

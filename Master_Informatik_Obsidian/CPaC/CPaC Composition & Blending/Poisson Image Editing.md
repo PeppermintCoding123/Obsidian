@@ -11,4 +11,4 @@ Cons:
 - provide boundary Condition for $\partial \Omega$
 - #TODO: https://dl.acm.org/doi/10.1145/882262.882269
 ![[Pasted image 20250816161251.png]]
-#CompositionAndBlending
+#CompositionAndBlending [[CPaC_Overveiw.canvas|CPaC_Overveiw]]

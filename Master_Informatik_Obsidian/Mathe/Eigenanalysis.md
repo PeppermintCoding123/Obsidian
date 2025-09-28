@@ -5,3 +5,5 @@ $\lambda_1 <0 < \lambda_3 \rightarrow$ saddle
 $\lambda_1 \leq \lambda_2 \leq_3 < 0 \rightarrow$ max
 
 = [[EW Eignevalues]] & [[EV Eigenvectors]] calculation
+[[SciVis - overview.canvas|SciVis - overview]]
+[Mathe]

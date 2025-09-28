@@ -3,3 +3,13 @@
 [[Attatchment/ Detatchment points at non-slip boundaries - Toplogy]]
 [[Separatrisies]]
 [[Isolated closed streamlines]]
+
+[[SciVis - overview.canvas|SciVis - overview]] #VectorField 
+[[First-Order 2D Critical Points]]
+[[First-Order 3D Critical Points]]
+[[Higher-Order Critical Points]]
+[[Critical points - steady 3D]]
+[[Attatchment/ Detatchment points at non-slip boundaries - Toplogy]]
+[[Separatricies]]
+[[Separatrisies - steady 2D Topology]]
+[[Isolated closed streamlines - Steady 2D Topology]]

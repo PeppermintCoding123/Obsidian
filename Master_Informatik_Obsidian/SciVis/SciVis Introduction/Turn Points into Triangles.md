@@ -4,4 +4,5 @@
 - artifact free
 - ![[Pasted image 20250827174444.png]]
 - [[Triangulation]]
-- 
+
+[[SciVis - overview.canvas|SciVis - overview]] #ScalarField [[Delaundry Triangulation]]

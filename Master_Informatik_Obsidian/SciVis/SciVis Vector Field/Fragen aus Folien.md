@@ -1,3 +1,4 @@
+[[SciVis - overview.canvas|SciVis - overview]] 
 # 1
 #### Explain all steps of the visualization pipeline!
 - Filtering (choose wich data point are ineteresting), 
@@ -78,7 +79,7 @@ in 3D
 - maps scalar values to RGBA or other Colour space
 #### What is the difference between pre-classification and post-classification?
 pre: Transfer function , then trilinear interpolation
-post: first interpolate then use transfer function #Lernen
+post: first interpolate then use transfer function 
 #### Explain back-to-front and front-to-back compositing
 - ftb  ray & build as mowing 
 - btf shoot till end & calculate starting from the back
@@ -102,7 +103,7 @@ post: first interpolate then use transfer function #Lernen
 #### What are the nodes and edges in a contour tree?
 - leaf node represents the creation or deletion of a component
 - interior node represents the joining and/or splitting of two or more components
-- edge represents a component in the level set for all values between the values at each end of the edge - alles zwischen crictical points #Lernen
+- edge represents a component in the level set for all values between the values at each end of the edge - alles zwischen crictical points 
 #### How is the contour tree computed?
 - join, split, & merge tree algorithm
 #### What is the difference between the join tree and split tree construction algorithm?
@@ -115,9 +116,9 @@ post: first interpolate then use transfer function #Lernen
 #### Does the contour tree construction algorithm work for any dimension?
 - [[Contour Tree Algorithm]]  jes, as long as we have a propper metric
 #### What is persistence?
-- abstand von localen minima oder maxima zu ihrem jeweiligen saddle #Lernen
+- abstand von localen minima oder maxima zu ihrem jeweiligen saddle 
 #### How does topological denoising work?
-- compute persistance & only keep the extrema with the largest persistence. "collapse edge with the smallest persistence & flatten field" #Lernen 
+- compute persistance & only keep the extrema with the largest persistence. "collapse edge with the smallest persistence & flatten field"
 
 # 6
 #### What are divergence and curl?
@@ -136,7 +137,7 @@ post: first interpolate then use transfer function #Lernen
 #### How can we extract critical points numerically?
 - Vectorfield = 0
 - Newton um nullstellen zu finden
-- Bezier curve #Lernen
+- Bezier curve 
 
 # 7
 #### Given a linear vector field v = $(x − y, 2x + x)^ T$ and a seed point $x_0 =( 0,1 )^T$ . Calculate the end point after integration duration $\tau = 2$ analytically!
@@ -208,7 +209,7 @@ the large same surfaces are transparent => no need to have that many points / in
 linear vectorfield =  3 dim => 3, 2dim =>2
 bilinear vectorfield = 
 
-#Forum
+
 = 0 setzen for vector fields
 #### How can we extract isolated closed streamlines?
 [[Isolated closed streamlines - Steady 2D Topology]]

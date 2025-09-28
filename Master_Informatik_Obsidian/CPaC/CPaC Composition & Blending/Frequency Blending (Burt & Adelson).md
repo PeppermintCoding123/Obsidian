@@ -8,4 +8,4 @@
 5. Fether $F_C¹, F_C², ...$
 
 
-[[Alpha-Channel]] [[Feathering]] #CompositionAndBlending
+[[Alpha-Channel]] [[Feathering]] #CompositionAndBlending [[CPaC_Overveiw.canvas|CPaC_Overveiw]]

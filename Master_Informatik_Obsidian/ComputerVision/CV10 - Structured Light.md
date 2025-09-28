@@ -37,3 +37,4 @@ $(2^n -1)$ stripes in n images
 
 ### LiDAR
 - most done with Stereo reconstruction & a art doen with lidar for depth
+#ComputerVision [[Computer Vision]] [[CV11 - Surface Reconstruction]]

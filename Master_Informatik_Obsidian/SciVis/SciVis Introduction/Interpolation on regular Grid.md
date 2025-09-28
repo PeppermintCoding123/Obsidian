@@ -7,3 +7,5 @@ $$(\Delta _x, \Delta _y) = (\frac{x_{max} - x_{min}}{X-1}, \frac{y_{max} - y_{mi
 	- $(0,0)$ immer unten links
 ### <span style="color:rgb(0, 176, 240)">Coordinate</span>
 $$(x_i, y_j)= (x_{min} + 1 \cdot \Delta_x, y_{min} + 1 \cdot \Delta_y)$$
+
+[[SciVis - overview.canvas|SciVis - overview]] [[Interpolation]]

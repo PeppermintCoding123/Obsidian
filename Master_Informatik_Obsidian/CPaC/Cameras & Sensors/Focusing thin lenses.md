@@ -11,3 +11,4 @@ What happens when you move sensor further away from focus?
 ![[Pasted image 20250806134250.png]]
 
 #TODO: answers from athena to this slide word definitions
+[[CPaC_Overveiw.canvas|CPaC_Overveiw]]

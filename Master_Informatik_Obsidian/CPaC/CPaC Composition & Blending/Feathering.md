@@ -6,4 +6,4 @@ $$I_{\text{blend}} = \alpha A + (1-\alpha) B$$
 => Complicated alpha patterns for complicated blending
 Canter Weights: 
 ![[Pasted image 20250816145429.png]]
-#CompositionAndBlending
+#CompositionAndBlending [[CPaC_Overveiw.canvas|CPaC_Overveiw]]

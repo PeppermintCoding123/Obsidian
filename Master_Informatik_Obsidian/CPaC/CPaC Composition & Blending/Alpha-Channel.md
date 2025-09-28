@@ -4,4 +4,4 @@ Alpha 0 = transparent
 
 $$I_{\text{composition}} = \alpha A + (1-\alpha) B$$
 
-#CompositionAndBlending
+#CompositionAndBlending [[CPaC_Overveiw.canvas|CPaC_Overveiw]]

@@ -7,3 +7,4 @@ big aperture & small shutter speed => blured background & in focus/ no motion bl
 ![[Drawing 2025-08-09 15.10.10.excalidraw]]
 #CameraWords 
 
+[[CPaC_Overveiw.canvas|CPaC_Overveiw]]
