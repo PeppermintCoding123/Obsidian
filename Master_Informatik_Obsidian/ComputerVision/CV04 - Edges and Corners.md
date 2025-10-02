@@ -7,6 +7,7 @@
 = Derivative theorem of convolution
 - convolve Gaussian & 1 derivative 
 - Gaussian with different size kernel => Edges at different scales
+#OtherLecture [[Gaussian Blur]]
 
 #### Design Edge-detector
 1. <span style="color:rgb(255, 133, 133)">Good detection</span> => find all real edges  & ignore noise & artifacts
