@@ -90,13 +90,9 @@ X: World Coordinates: (X,Y,Z,1)
 $[\mathbf{R\; t}]$ = Extrinsic Matrix
 =>
 #### $w \begin{bmatrix}u \\ v\\ 1\end{bmatrix} = \begin{bmatrix}f_x & s & {u}_0 \\ 0 & f_y & {v}_0 \\ 0 & 0 & 1\end{bmatrix}\begin{bmatrix}r_{11} & r_{12} & r_{13} & t_x \\ r_{21} & r_{22} & r_{23} & t_y \\ r_{31} & r_{32} & r_{33} & t_z\end{bmatrix}\begin{bmatrix}x \\ y \\ z \\ 1\end{bmatrix}$
-#### Intrinsic
-- Camera center not in (0,0) => $u_0, v_0$
-- No Unit aspect ratio (different focal length for x & y coordinates) =>$f_x, f_y$
-- pixels not perfectly square => $s$
-##### Extrinsic
-- no rotation, but translation $\begin{bmatrix}1& 0 & 0 & t_x \\ 0& 1& 0 & t_y\\0& 0& 1 & t_z\end{bmatrix}$
-- rotation => $r$
+![[Intrinsic Camera Properties]]
+
+![[Extrinsic Camera Properties]]
 
 ##### Perspective Projection
 Orthographic projection

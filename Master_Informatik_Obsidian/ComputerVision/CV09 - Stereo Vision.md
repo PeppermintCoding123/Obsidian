@@ -21,11 +21,7 @@ Reconstruction Problem:
 
 Scanline = Epipolar line that is alighened with image grid
 
-### Triangulation
-$Z = f\frac{T}{x_L-x_R}$
-x_L-x_R = Disparety
-$x_L$ = diffarence of point to center of image
-![[Pasted image 20250921161526.png]]
+### ![[Triangulation]]
 #### Baseline
 Small => large depth error
 Large => hard to find correspondences
