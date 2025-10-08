@@ -1,4 +1,6 @@
 #### Tone mapping (HDR->LDR display)
+= How to display HDR on computer screen => Eye Cntrast
+= Compress HDR
 [[Backlight Projector]]
 [[Human Dynamic Range]]
 [[Contrast reduction]]

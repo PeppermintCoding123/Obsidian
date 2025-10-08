@@ -4,5 +4,5 @@
 This has 2 Main parameters
 [[Shutter speed]] and [[Aperture]]. These are adjusted with [[Metering]]
 
-and [[Sensitivity (ISO)]]
+and [[ISO]]
 [[CPaC_Overveiw.canvas|CPaC_Overveiw]]

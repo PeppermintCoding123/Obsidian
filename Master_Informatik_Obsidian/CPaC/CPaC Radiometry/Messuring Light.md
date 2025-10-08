@@ -2,7 +2,7 @@ Light => Jules J
 Radiant Flux $\phi$ => $\frac{J}{s} = W$
 
 Irradiance $E$ => $\frac{W}{m^2}$
-Radiance  $L = \frac{dW}{dAd\omega}$ => $\frac{W/m^2}{sr}$
+Radiance  $L = \frac{dW}{dAd\omega}$ => $\frac{W}{sr \cdot m^2}$
 ![[Pasted image 20251003130505.png]]
 - Power per unit area per solid Angle
 - Projected area is Particular to a given direction

@@ -90,7 +90,6 @@ m_{31}\\ m_{32}\\ m_{33}\\ m_{34}\end{bmatrix} = \begin{bmatrix}0\\ 0 \\ \cdots 
 
 ```
 U, S, Vh = np.linalg.svd(a)
-# V = Vh.T
 M = Vh[-1,:]
 M = np.reshape(M, (3,4))
 ```

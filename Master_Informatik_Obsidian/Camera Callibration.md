@@ -39,3 +39,5 @@
 	- Detect corners in Photos => translate to local Homographies
 	- Use local Homography (Matrix that translates points between 2 Plains) for robust results & sub-pixel precision
 	- Calibrate projector like a camera
+
+[[CPaC_Overveiw.canvas|CPaC_Overveiw]]
