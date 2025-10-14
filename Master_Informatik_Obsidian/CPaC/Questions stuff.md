@@ -21,6 +21,7 @@
 - <span style="color:rgb(0, 176, 240)">CMOS</span>
 	- phones
 	- each pixel own amplifier
+	CCD (Charge-Coupled Device) and CMOS (Complementary Metal-Oxide-Semiconductor)
 
 Composition & Blending
 - <span style="color:rgb(112, 155, 255)">Alpha Hacking</span> - Gradient of where to place what alpha
@@ -69,5 +70,5 @@ Light flux - power emitted in solid angel
 	- ![[Pasted image 20251002130406.png]]
 
 ## Video
-Morphing - combining
-Crossfading - frame by frame
+Morphing - combining - interpolating
+Crossfading - frame by frame - alpha blending entire Image

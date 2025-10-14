@@ -17,3 +17,4 @@ gamma_apply = lambda x: np.power(x, 2.2)
 - 8Bit linear RGB has less relative precision in darks
 ![[Pasted image 20251008100746.png]]
 ![[Pasted image 20251008101241.png]]
+![[Pasted image 20251009130022.png]]

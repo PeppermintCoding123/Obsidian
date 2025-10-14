@@ -7,8 +7,11 @@ Radiance  $L = \frac{dW}{dAd\omega}$ => $\frac{W}{sr \cdot m^2}$
 - Power per unit area per solid Angle
 - Projected area is Particular to a given direction
 Angle $\theta = l / r$ in radians
+
 Solid Angle $\omega = A / r^2$=> $sr$ Steradians
+
 Radient Flux per solid Angle => $W / sr$
+
 Inverse Square Law
 	$E \sim \frac{1}{r^2}$
 Cosine Law
