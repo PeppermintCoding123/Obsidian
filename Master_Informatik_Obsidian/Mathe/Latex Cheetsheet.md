@@ -1,5 +1,6 @@
 Matrix:
 $$\begin{pmatrix}1 & 2 & 3 \\ 4 & & 5\end{pmatrix}$$
+$$\begin{matrix}   1 & 2 & 3\\   a & b & c   \end{matrix}$$
 plusminus $\pm$
 Fonts:
 $$\begin{matrix}

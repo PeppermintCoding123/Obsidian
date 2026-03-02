@@ -1,0 +1,1 @@
+= Which formulae $A$ are true?
