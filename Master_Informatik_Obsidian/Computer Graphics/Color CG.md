@@ -1,11 +1,15 @@
-RGB
-CMYK
+[[RGB Color Model]]
+[[sRGB Color Model]]
+[[CMY Color Model]]
+[[CMYK Color Model]]
 Hue, Saturation,Brightness
-HSL HSV
-Lab
+[[HSV-HSL Color Model]]
+[[Lab Color Model]]
+[[XYZ Color Model]]
+
 
 Gamma
-Dithering
+[[Dithering]]
 
 Color curves - spectrum & Peaks & stuff
 

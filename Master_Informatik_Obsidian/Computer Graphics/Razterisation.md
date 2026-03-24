@@ -11,4 +11,4 @@ Rasterization - how to segment to pixels
 [[Seed-fill Algorithm]]
 Triangle Test - what edge are wa at & what needs to be filled
 [[Scanline Algorithm]]
-[[Computer Graphics/Razterisation/Gouraud Shading]]
+[[Computer Graphics/CG Razterisation/Gouraud Shading]]
