@@ -1,10 +1,14 @@
-- Primatives
+Primatives
 - Lines
-- Lines Bresenham
-- Lines Anti-Alyasing
+- Polygons
+- Triangulation
 
-- Rasterization - how to segment to pixels
-- Seed-fill Algorithm
-- Triangle Test
-- Scanline Algorithm
-- Gouraud Shading
+[[Line Drawing]]
+[[Line Drawing Bresenham]]
+[[Line Drawing Anti-Aliasing]]
+
+Rasterization - how to segment to pixels
+[[Seed-fill Algorithm]]
+Triangle Test - what edge are wa at & what needs to be filled
+[[Scanline Algorithm]]
+[[Computer Graphics/Razterisation/Gouraud Shading]]

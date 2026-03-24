@@ -9,7 +9,7 @@
 - View
 #### -> Viewing Transformation
 - Rigit transformation
-# Camera Space = Viewing Space
+# Camera Space = Viewing Space = Eye Space
 = 3D camera coords
 - perspective
 #### -> Perspective / Normalization

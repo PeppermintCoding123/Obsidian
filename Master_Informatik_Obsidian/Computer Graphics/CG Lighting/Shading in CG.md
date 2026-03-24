@@ -1,3 +1,3 @@
 [[Flat Shading]]
-[[Gouraud Shading]]
+[[Computer Graphics/Razterisation/Gouraud Shading]]
 [[Phong Shading]]
