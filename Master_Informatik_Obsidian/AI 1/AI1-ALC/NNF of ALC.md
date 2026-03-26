@@ -1,0 +1,1 @@
+= negation normal form if complement only applied to primative

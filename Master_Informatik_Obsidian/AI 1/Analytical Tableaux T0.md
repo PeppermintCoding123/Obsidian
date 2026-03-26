@@ -1,3 +1,4 @@
+- propositional
 ## propositional tableau calculus $\mathcal{T}_0$
 $$\frac{(A \wedge B)^T}
 {\begin{array} _A^T \\ B^T\end{array}}
@@ -17,13 +18,13 @@ closed branch = ends in $\bot$
 closed tableau = all branches are closed
 ## derivable inference rule $\mathcal{T}_0$
 
-$$\frac{(A\Rightarrow B)^F}
-{\begin{array} _A^T \\ B^F\end{array}}
+$$\frac{(A\Rightarrow B)^T}
+{\begin{array} _A^F &|& B^T\end{array}}
+\quad
+\frac{\begin{array} _A^T \\ (A\Rightarrow B)^T \end{array}}{B^T}
 \quad
 \frac{(A\Rightarrow B)^F}
-{\begin{array} _A^T &|& B^F\end{array}}
-\quad
-\frac{\begin{array} _A^T \\ (A\Rightarrow B)^F \end{array}}{B^T}$$
+{\begin{array} _A^T \\ B^F\end{array}}$$
 $$\frac{(A \vee B)^T}
 {\begin{array} _A^T & | & B^T\end{array}}
 \quad
@@ -33,7 +34,7 @@ $$
 $$\frac{(A \Leftrightarrow B)^T}
 {\begin{array} _A^T & | & A^F \\ B^T & | & B^F \end{array}}
 \quad
-\frac{(A \vee B)^F}
+\frac{(A \Leftrightarrow B)^F}
 {\begin{array} _A^T & | & A^F \\ B^F & | & B^T\end{array}}
 $$
 
