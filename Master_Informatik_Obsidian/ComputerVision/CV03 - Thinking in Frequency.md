@@ -29,6 +29,7 @@ $$G_\sigma = \frac{1}{2\pi\sigma^2}exp(\frac{-(x^2+ y ^2)}{2 \sigma ^2})$$
 - [[Low-pass filter]] 
 	- = blur = remove high frequencies
 - Gaussian times Gaussian = Gaussian
+[[Gaussian Blur]]
 ## Separable
 - convolve in 1 direction, then in 2. direction, instead of a 2D
 $$G_\sigma(x, y) = \frac{1}{2\pi\sigma^2}exp(\frac{-(x^2+ y ^2)}{2 \sigma ^2}) = (\frac{1}{\sqrt{2\pi}\sigma}exp(\frac{-x^2}{2 \sigma ^2}))*(\frac{1}{\sqrt{2\pi}\sigma}exp(\frac{-y^2}{2 \sigma ^2}))$$
@@ -39,6 +40,7 @@ $M\times N$ image & $P\times Q$ filter
 # Box filter
 - axis aligned artifacts
 - computational simplicity
+[[Box Filter]]
 
 # <span style="color:rgb(255, 221, 0)">Sobel Filter</span>
 $$G_x = \begin{bmatrix}   1 & 0 & -1\\
@@ -67,6 +69,7 @@ $$G_x = \begin{bmatrix}   1 & 0 & -1\\
 ## Aliasing
 - wrong wave pattern for actual pattern
 - mecanically sample continous reality at regular grid
+[[Aliasing with Fourier]]
 ### <span style="color:rgb(255, 221, 0)">Nyquist-Shannon Sampling Theorem</span>
 When sampling at discrete intervalls, the sampling frequency must be $\geq 2 \times f_{max}$ 
 => sampling grid at least 2x as dense as actual frequency

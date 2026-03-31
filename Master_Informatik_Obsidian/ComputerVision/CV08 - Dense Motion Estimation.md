@@ -16,6 +16,7 @@ Assume
 -  ignores parallax effects (Closer Objects move faster)
 - towards camera =  radial optical flow
 
+[[Time-dependent Flow - Integral Surface]]
 ## Error Metrics
 Now: Translations between images 
 u = displacement vector => how much we move in x & y direction

@@ -50,7 +50,7 @@ right & left nullspaces = epipoles - p.90
 
 => Summery p. 91 => the important stuff
 
-### Algebreic Estimation of funcamental Matrix
+### Algebreic Estimation of fundamental Matrix
 Assume we have teh corresponding points already
 - by estimating => not F with rank 2 
 - minimize by setting \sigma_3 = 0 

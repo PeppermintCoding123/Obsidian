@@ -14,7 +14,6 @@ Correspondence problem:
 - What are the same points?
 Reconstruction Problem:
 - Once points are found, what do we do with them?
-
 #### Disparity
 = distance from projection of converging point to other projection points
 => see Computational Visual Perception
@@ -65,7 +64,7 @@ Ask:
 #### Full 2D grid - in 2 Dimensions
 	- Pyramid
 
-### Grapth cut
+### [[Graph cuts]]
 - Smoothness
 - Data term = how simmilar are pixels & look around them with blured version
 

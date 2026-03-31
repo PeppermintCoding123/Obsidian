@@ -36,6 +36,7 @@ Composition & Blending
 - Poisson blending - also blend colour
 
 <span style="color:rgb(255, 133, 133)">Poisson equasion</span> - seamless cloning #TODO equasion
+[[Poisson Image Editing]]
 - matching intencity gradients => colour shifts of forgrouns
 - membrane into boundary
 - Target Images not changed

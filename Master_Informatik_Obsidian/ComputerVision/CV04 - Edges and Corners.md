@@ -83,7 +83,7 @@ Interpreting M - second moment Matrix
 - rotation
 - Not  covariant to scaling
 
-# Gamma
+# [[Gamma]]
 - SRGB - colour intencity not linear
 - CRT - color with power function $I ∝ V^\gamma$
 - black => larger amount of colours, light => less colors

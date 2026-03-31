@@ -1,6 +1,5 @@
 ### <span style="color:rgb(166, 0, 255)">linear Transformation</span>
 $p' = T(p) =  \begin{bmatrix}x' \\ y'\end{bmatrix} = T \begin{bmatrix}x \\ y\end{bmatrix}$
-
 #### <span style="color:rgb(166, 0, 255)">Scaling</span>
 - multiply each component by scalar
 $\begin{bmatrix}x' \\ y'\end{bmatrix} = \begin{bmatrix}s_x & 0 \\0& s_y\end{bmatrix}\begin{bmatrix}x \\ y\end{bmatrix}$

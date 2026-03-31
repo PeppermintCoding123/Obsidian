@@ -65,10 +65,11 @@ $\frac{NN1}{NN2} \approx 0$ => matches distinct enough
 - length & area are lost
 - foreshortening - length & Area
 - Angles
-
+[[Projective Transformations]]
 ### Homogeneous Coordinates $(x, y, w)$
 w = distance projector to surface
 => now transform extra dimension with matrices
+[[CG Homogeneous Coords]]
 #### Converting to Homogeneous coordinates
 => adding 1 for w:
 $$(x, y) \Rightarrow \begin{bmatrix}x \\ y\\ 1\end{bmatrix}, \quad (x, y, z) \Rightarrow \begin{bmatrix}x\\ y\\ z \\1\end{bmatrix}$$
@@ -101,7 +102,7 @@ $$w \begin{bmatrix}u \\ v\\ 1\end{bmatrix} = \begin{bmatrix}1 & 0 & 0 & 0 \\ 0 &
 ##### Scaled ortographic projection
 - Object dimensions are small compared to distance to camera
 $$w \begin{bmatrix}u \\ v\\ 1\end{bmatrix} = \begin{bmatrix}f & 0 & 0 & 0 \\ 0 & f &0 & 0\\ 0 & 0 & 0 & s\end{bmatrix}\begin{bmatrix}x \\ y \\ z \\ 1\end{bmatrix}$$
-# 05.3 SVD
+# 05.3 [[SVD]]
 ## $A=U \Sigma V ^T$
 A = m x n => m to bottom (rows) & n to right (columns)
 U = m x n

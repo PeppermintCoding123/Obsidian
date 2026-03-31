@@ -13,3 +13,4 @@ $f_i$ = sample value
 [[Nearest Neighbor Interpolation]]
 
 #ScalarField [[SciVis - overview.canvas|SciVis - overview]] 
+[[Rendering Equation]]

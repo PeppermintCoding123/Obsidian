@@ -61,6 +61,10 @@ Other color spaces can decouple things
 
 Add picture of all diffarent color spaces
 ![[Drawing 2025-09-16 colorspaces.excalidraw]]
+[[RGB Color Model]]
+[[HSV-HSL Color Model]]
+[[Lab Color Model]]
+
 
 Next: [[CV03 - Thinking in Frequency]]
 CV - [[Computer Vision]] #ComputerVision 
