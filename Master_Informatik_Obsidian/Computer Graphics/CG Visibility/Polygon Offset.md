@@ -4,3 +4,6 @@ $m$ = maximum slope
 $r$ = implementation dependent value
 
 ![[Pasted image 20260324164337.png]]
+
+[[Computer Graphics - overview.canvas]]
+[[Visibility]]

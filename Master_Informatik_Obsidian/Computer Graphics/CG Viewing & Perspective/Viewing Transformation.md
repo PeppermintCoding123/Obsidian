@@ -11,3 +11,7 @@ $v = w\times u$
 #### Viewing transformation 
 $R = \begin{pmatrix}\vdots&\vdots&\vdots\\u&v&w \\ \vdots&\vdots&\vdots\end{pmatrix}$
 $M_v = \begin{pmatrix}u_x&u_y&u_z & -u^T e\\v_x&v_y&v_z & -v^T e\\w_x&w_y&w_z & -w^T e\end{pmatrix}$
+
+
+[[Computer Graphics - overview.canvas]]
+[[CG Viewing & Perspective]]

@@ -8,3 +8,5 @@ C & = & C-K\\
 M & = & M-K\\
 Y & = & Y-K
 \end{matrix}$$
+
+[[Computer Graphics - overview.canvas]]

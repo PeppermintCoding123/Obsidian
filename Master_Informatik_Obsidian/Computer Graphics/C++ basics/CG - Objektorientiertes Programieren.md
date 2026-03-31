@@ -259,4 +259,5 @@ int main(){
 ```
 page 73 & further
 ## Templates
-#TODO Die Aufgaben ausprobieren
+
+[[Computer Graphics - overview.canvas]]

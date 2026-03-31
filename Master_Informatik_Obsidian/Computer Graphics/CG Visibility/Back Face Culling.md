@@ -14,3 +14,6 @@
 4. abc counterclockwise $\Leftrightarrow (p\times q)[3] > 0$
 
 ![[Pasted image 20260324165558.png]]
+
+[[Computer Graphics - overview.canvas]]
+[[Visibility]]

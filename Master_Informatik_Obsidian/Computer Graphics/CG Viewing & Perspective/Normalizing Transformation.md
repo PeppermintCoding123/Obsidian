@@ -9,3 +9,7 @@ part of [[Projective Transformations]]
 $$z \rightarrow \frac{n}{f-n}-\frac{nf}{(f-n)z}$$
 
 #Question How to use
+
+[[Normal]]
+[[Computer Graphics - overview.canvas]]
+[[CG Viewing & Perspective]]

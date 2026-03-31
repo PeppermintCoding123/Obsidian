@@ -14,3 +14,7 @@ mapping $[x_{min}, x_{max}]\times [y_{min},y_{max}] \rightarrow [-1, 1]^2$
 ![[Pasted image 20260324124055.png]]
 ## Depth Normalization
 $$M_{c} = \begin{pmatrix}1&0&0&0\\0&1&0&0\\0&0&-\frac{1}{f-n}&-\frac{n}{f-n}\\0&0&1&0\end{pmatrix}$$
+
+
+[[Computer Graphics - overview.canvas]]
+[[CG Viewing & Perspective]]

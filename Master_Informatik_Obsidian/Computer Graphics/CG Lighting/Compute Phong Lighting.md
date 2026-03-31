@@ -17,3 +17,6 @@ $$L_{spec} = k_{spec}I_{in}(v\cdot r)^{n_s} = k_{spec}I_{in}(\cos\phi)^{n_s}$$
 $r$ = ideal reflectance vector
 $v$ = vector towards viewer
 $r = 2(n\cdot l)n-l$
+
+[[Computer Graphics - overview.canvas]]
+[[Phong Lighting]]

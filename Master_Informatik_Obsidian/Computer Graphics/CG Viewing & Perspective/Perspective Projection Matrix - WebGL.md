@@ -6,3 +6,6 @@ $$M_{frustum} = \begin{pmatrix}\frac{2n}{r - l} & 0&\frac{r+l}{r-l} & 0\\
 \end{pmatrix}$$
 
 ![[Pasted image 20260324140027.png]]
+
+[[Computer Graphics - overview.canvas]]
+[[CG Viewing & Perspective]]

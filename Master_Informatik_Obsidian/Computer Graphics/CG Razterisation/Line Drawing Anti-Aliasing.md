@@ -5,3 +5,7 @@ if $d \geq 0$ -> Choose E
 ![[Pasted image 20260324102852.png]]
 if $d < 0$ -> Choose NE
 ![[Pasted image 20260324102930.png]]
+
+
+[[Computer Graphics - overview.canvas]]
+[[Razterisation]]

@@ -8,3 +8,7 @@ setpixel(x, y, depth, color)
 - orderindependant - no pre-sort
 $z\in [0, 1]$
 Depth = lenth of Projection onto main line
+
+
+[[Computer Graphics - overview.canvas]]
+[[Visibility]]

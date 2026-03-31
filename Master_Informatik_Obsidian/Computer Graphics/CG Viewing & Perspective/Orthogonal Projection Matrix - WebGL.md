@@ -12,3 +12,8 @@ $$M_{crop} = \begin{pmatrix}\frac{2}{r - l} & 0&0&-\frac{r+l}{r-l}\\
 0&0&0&1
 \end{pmatrix}$$
 ![[Pasted image 20260324132118.png]]
+
+
+[[Computer Graphics - overview.canvas]]
+[[CG Viewing & Perspective]]
+[[Orthographic Projection 3D]]

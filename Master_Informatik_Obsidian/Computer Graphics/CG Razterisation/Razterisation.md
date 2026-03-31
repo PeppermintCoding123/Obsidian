@@ -12,3 +12,5 @@ Rasterization - how to segment to pixels
 Triangle Test - what edge are wa at & what needs to be filled
 [[Scanline Algorithm]]
 [[Computer Graphics/CG Razterisation/Gouraud Shading]]
+
+[[Computer Graphics - overview.canvas]]

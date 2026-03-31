@@ -7,3 +7,6 @@ $clamp(x) = max(0, min(1, x))$
 $frac(x)= x-floor(x)$
 
 [[Texture Interolation]]
+
+[[Texture Mapping CG]]
+[[Computer Graphics - overview.canvas]]

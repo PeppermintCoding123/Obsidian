@@ -6,3 +6,7 @@ $v = \frac{eye -x}{||eye - x||}$ = towards camera
 point light source $p$:
 $$l = \frac{p-x}{||p-x||}$$
 ![[Pasted image 20260213161729.png]]
+
+[[Computer Graphics - overview.canvas]]
+[[Phong Lighting for multiple lights]]
+[[Phong Shading]]

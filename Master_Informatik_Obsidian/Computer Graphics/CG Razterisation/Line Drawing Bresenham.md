@@ -37,3 +37,8 @@ swap stuff to make it make sense
 
 
 ![[Pasted image 20260324101728.png]]
+
+
+[[Computer Graphics - overview.canvas]]
+[[Line Drawing]]
+[[Razterisation]]

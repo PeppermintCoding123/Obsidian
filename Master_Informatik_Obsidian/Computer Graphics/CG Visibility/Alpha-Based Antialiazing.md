@@ -4,3 +4,8 @@ Given: $\alpha$-values that correspond to coverage of pixel
 - render **front to back**
 - $\alpha$-channel contains **accumulated capacities**
 	- once $\alpha = 0$ no further triangles are added
+
+
+[[Computer Graphics - overview.canvas]]
+[[Visibility]]
+[[CG Antialiasing]]

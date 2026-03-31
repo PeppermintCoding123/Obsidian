@@ -4,3 +4,7 @@ Supersample can be
 - rotated grid
 - sample at edges
 - irregular sample
+
+
+[[Computer Graphics - overview.canvas]]
+[[Visibility]]

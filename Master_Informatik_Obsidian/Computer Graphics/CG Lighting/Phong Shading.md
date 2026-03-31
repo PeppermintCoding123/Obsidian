@@ -2,3 +2,7 @@
 - interpolate normalvectors at verteces during rasterization
 - per pixel lighting in fragement shader
 - ![[Pasted image 20260214133302.png]]
+
+[[Computer Graphics - overview.canvas]]
+[[Phong Lighting]]
+[[Shading in CG]]

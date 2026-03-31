@@ -18,3 +18,6 @@ at rendering time:
 # Anisotropic Filtering
 = Pixel Footprint for strange shapes
 ![[Pasted image 20260214161841.png]]
+
+[[Computer Graphics - overview.canvas]]
+[[Image-Filtering]]

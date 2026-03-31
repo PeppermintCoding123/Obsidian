@@ -7,3 +7,5 @@ Tentfilter
 $$\frac{1}{16}\begin{bmatrix}1&2&1\\2&4&2\\1&2&1\end{bmatrix}$$
 [[Gaussian Blur]] Filter
 => finite support
+
+[[Computer Graphics - overview.canvas]]

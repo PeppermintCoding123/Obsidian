@@ -13,3 +13,6 @@ $z_{max}$ = [[far]] plane
 Here: between $[0,1]$
 
 ![[Pasted image 20260214175756.png]]
+
+[[Computer Graphics - overview.canvas]]
+[[CG Viewing & Perspective]]

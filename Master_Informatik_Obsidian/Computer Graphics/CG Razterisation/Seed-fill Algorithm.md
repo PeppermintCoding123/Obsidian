@@ -4,3 +4,7 @@
 4. fill for neighbors
 
 => BAD! DO NOT USE!
+
+[[Computer Graphics - overview.canvas]]
+[[Line Drawing]]
+[[Razterisation]]

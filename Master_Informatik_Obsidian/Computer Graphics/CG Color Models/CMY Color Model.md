@@ -11,3 +11,5 @@ M & = & 1-G\\
 Y & = & 1-B
 \end{matrix}$$
 ![[Drawing HSVModel 2026-02-12.excalidraw]]
+
+[[Computer Graphics - overview.canvas]]

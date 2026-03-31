@@ -18,3 +18,7 @@ $$s = \frac{s'z_1}{s'z_1+(1-s')z_2}$$
 Also for arbitrary Arbutuses $A$ along line:
 $$A(s) = A_1 + s(A_2-A_1)= \frac{\frac{A_1}{z_1}+s'\left(\frac{A_2}{z_2} - \frac{A_1}{z_1}\right)}{\frac{1}{z_1}+s'\left(\frac{1}{z_2} - \frac{1}{z_1}\right)}$$
 ![[Pasted image 20260214143619.png]]
+
+[[Texture Mapping CG]]
+[[Computer Graphics - overview.canvas]]
+ [[Texture Mapping CG]]

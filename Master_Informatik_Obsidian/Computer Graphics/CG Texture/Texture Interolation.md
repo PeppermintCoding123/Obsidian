@@ -9,3 +9,6 @@ $$c(s,t) = (1-s')(1-t')c_{i, j} + s'(1-t')c_{i+1, j}+(1-s')t'c_{i, j+1}+s't'c_{i
 ![[Pasted image 20260214154958.png]]
 
 => texture minification
+
+[[Computer Graphics - overview.canvas]]
+[[Texture Mapping 2D]]

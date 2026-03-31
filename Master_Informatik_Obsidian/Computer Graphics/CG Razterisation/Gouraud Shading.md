@@ -10,3 +10,7 @@ $col_p = \alpha col_a + \beta col_b + \gamma col_c$
 1. linear interpolation along edges
 2. then interpolate with [[Scanline Algorithm]] along lines
 ![[Pasted image 20260324112503.png]]
+
+[[Computer Graphics - overview.canvas]]
+[[Shading in CG]]
+[[Razterisation]]

@@ -35,3 +35,8 @@ while ET not empty or AET not empty
 	yscan += 1
 	move all edges from ET with yscan == ylower to AET
 ```
+
+
+[[Computer Graphics - overview.canvas]]
+[[Line Drawing]]
+[[Razterisation]]
