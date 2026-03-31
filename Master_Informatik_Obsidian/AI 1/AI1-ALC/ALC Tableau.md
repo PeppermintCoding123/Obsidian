@@ -16,3 +16,5 @@ $$
 
 ![[Pasted image 20260325110639.png]]
 branshsize = \#input formulae + \#$\exists$-formulae $\cdot$ \#$\forall$-formulae
+
+[[AI1-overview.canvas]]

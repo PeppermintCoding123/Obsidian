@@ -69,3 +69,5 @@ AI is used much but unpredictable effects.
 	- some penalties
 1.Aug2026 - All requirements become active
 1.Aug2027 - more systems classified as high-risk
+
+[[AI1-overview.canvas]]

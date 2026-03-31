@@ -4,8 +4,6 @@
 havior. (Wiki)
 <span style="color:rgb(0, 176, 240)">= how we can make the computer do things that humans can still do better at the moment. (Elaine Rich)</span> 
 
-#AI1_Ch2
-
 - Ability to learn
 - Inference
 - Perception
@@ -13,3 +11,5 @@ havior. (Wiki)
 - Emotion
 
 [[AI Approaches]]
+
+[[AI1-overview.canvas]]

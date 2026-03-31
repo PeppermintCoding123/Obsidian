@@ -1,1 +1,0 @@
-= what are legal formulae $A$ 

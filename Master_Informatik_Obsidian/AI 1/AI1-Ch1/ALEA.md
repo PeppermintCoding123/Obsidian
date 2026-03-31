@@ -15,4 +15,4 @@ since it is interactive
 	3. rhetoric relations - introduction, elaborations, transitions
 4. Educational dialogue planner => guided tour
 
-#AI1_Ch1 
+[[AI1-overview.canvas]]

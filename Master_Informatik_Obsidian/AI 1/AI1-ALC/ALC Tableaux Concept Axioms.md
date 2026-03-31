@@ -5,3 +5,5 @@ $$\frac{x:\exists R.\varphi \quad
 ![[Pasted image 20260326155750.png]]
 
 [[ALC Tableau]]
+
+[[AI1-overview.canvas]]

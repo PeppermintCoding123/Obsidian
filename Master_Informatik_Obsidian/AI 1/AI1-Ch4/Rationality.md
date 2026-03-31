@@ -1,4 +1,4 @@
-= choosing [[Action]] that **maximizes** the **expected** value of the **Performance measure**
+= choosing [[Action AI1]] that **maximizes** the **expected** value of the **Performance measure**
 
 ### Performance measure
 = function that evaluates sequence of environments
@@ -21,3 +21,5 @@
 - not rely on prior knolage from desighner
 
 [[PEAS]]
+
+[[AI1-overview.canvas]]

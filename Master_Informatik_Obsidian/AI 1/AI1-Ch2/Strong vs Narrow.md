@@ -7,3 +7,6 @@
 
 # AI hard, AI complete 
 = Problems that require AGI to solve
+
+[[AI1-overview.canvas]]
+[[Remember for AI1-Exam]]

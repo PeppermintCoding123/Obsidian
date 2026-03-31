@@ -22,3 +22,5 @@ if $[\![a]\!] \in [\![\varphi]\!]$ => $[\![a:\varphi]\!] = \top$
 if $([\![a]\!], [\![b]\!] )\in [\![R]\!]$ => $[\![aRb]\!]=\top$
 
 [[ALC Tableau]]
+
+[[AI1-overview.canvas]]

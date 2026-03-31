@@ -29,3 +29,7 @@ Agent A & Environment E
 <span style="color:rgb(255, 192, 0)">multi-agent</span>
 
 factored - finite set of attributes, finite set of values for each & finite set of combinationsa
+
+[[Agent Schema AI1]]
+
+[[AI1-overview.canvas]]

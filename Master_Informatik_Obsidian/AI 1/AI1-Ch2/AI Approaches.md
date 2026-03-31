@@ -1,5 +1,3 @@
-#AI1_Ch2
-
 # Symbolic AI
 - manipulationg symbols -> intelligence
 - combine into meaning carying structures (expressions)
@@ -24,3 +22,4 @@
 ![[Pasted image 20251028125934.png]]
 
 [[Consumer & Producer Tasks]]
+[[AI1-overview.canvas]]

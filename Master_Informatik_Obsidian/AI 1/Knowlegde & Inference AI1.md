@@ -1,1 +1,0 @@
-[[Structured State Representation]]

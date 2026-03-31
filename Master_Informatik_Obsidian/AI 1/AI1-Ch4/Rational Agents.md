@@ -1,4 +1,4 @@
-# [[Agent]]
+# [[Agent AI1]]
 = perceives & acts
 
 We seek best performance
@@ -8,3 +8,4 @@ perfect rationality != achievable
 
 # [[Rationality]]
 
+[[AI1-overview.canvas]]

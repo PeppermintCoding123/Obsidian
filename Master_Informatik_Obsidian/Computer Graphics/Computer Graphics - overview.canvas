@@ -14,7 +14,7 @@
 		{"id":"2e145f590088040a","type":"file","file":"Computer Graphics/CG Lighting/Gouraud Shading.md","x":842,"y":4540,"width":760,"height":860},
 		{"id":"ca34eefd044cdc5c","type":"file","file":"Computer Graphics/CG Lighting/Flat Shading.md","x":542,"y":4080,"width":572,"height":400},
 		{"id":"1cf2fd61f7b0602d","type":"file","file":"Computer Graphics/CG Geometry/CG 2D geometry.md","x":-80,"y":-556,"width":536,"height":268},
-		{"id":"433ab61e02292a11","type":"file","file":"AI 1/CG Homogeneous Coords.md","x":-80,"y":-180,"width":400,"height":400},
+		{"id":"433ab61e02292a11","type":"file","file":"Computer Graphics/CG Homogeneous Coords.md","x":-80,"y":-180,"width":400,"height":400},
 		{"id":"48ae6014060cc6df","type":"file","file":"Computer Graphics/CG Geometry/2D Geometry.md","x":-620,"y":-288,"width":520,"height":908},
 		{"id":"13ad573af73eb1c0","type":"text","text":"Camera","x":-400,"y":-348,"width":250,"height":60},
 		{"id":"a9664f4f10e29342","type":"file","file":"Computer Graphics/CG Lighting/Shading in CG.md","x":1114,"y":4163,"width":440,"height":217},

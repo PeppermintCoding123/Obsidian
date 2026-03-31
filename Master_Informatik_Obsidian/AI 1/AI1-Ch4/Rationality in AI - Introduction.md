@@ -39,3 +39,6 @@ Problems:
 - do what is expected
 - maximize goal achievent with given info
 - thinking in service of rational acting
+
+
+[[AI1-overview.canvas]]
