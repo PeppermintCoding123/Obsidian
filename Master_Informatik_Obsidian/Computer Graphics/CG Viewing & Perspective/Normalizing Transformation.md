@@ -8,7 +8,7 @@ part of [[Projective Transformations]]
 #### Nonlinear mapping of z
 $$z \rightarrow \frac{n}{f-n}-\frac{nf}{(f-n)z}$$
 
-#Question How to use
+Question How to use: if z near or z far is given, we can calculate how z is projecting on near plane & far plane.
 
 [[Normal]]
 [[Computer Graphics - overview.canvas]]

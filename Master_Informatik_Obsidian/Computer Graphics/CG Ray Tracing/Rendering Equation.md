@@ -9,3 +9,8 @@ $\alpha_{dst}$ = Accumulated opacity
 $\alpha_{src}$ = Opasity provided by [[transfer function]]
 
 #TODO: diese formeln benutzen
+
+[[Computer Graphics - overview.canvas]]
+[[SciVis - overview.canvas]]
+[[Alpha-Channel]]
+[[Alpha-Channel]]
