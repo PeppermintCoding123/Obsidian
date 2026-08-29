@@ -1,0 +1,1 @@
+$$R_h = \frac{m}{\sum_{i= 1}^m \frac{1}{R_i}} = \frac{1}{T_a}$$

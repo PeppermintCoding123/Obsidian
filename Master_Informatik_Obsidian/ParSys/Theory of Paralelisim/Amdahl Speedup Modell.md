@@ -1,0 +1,1 @@
+Idaar: Compare speedup with n processors vs speedup with just 1 processor

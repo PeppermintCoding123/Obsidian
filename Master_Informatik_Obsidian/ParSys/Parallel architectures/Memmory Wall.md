@@ -1,0 +1,1 @@
+Memory access rates increases only slightly compared to CPU performance

@@ -1,0 +1,5 @@
+[[Functionality]]
+ [[Network Latency]]
+ [[Bandwidth ParSys]]
+ [[Hardware complexity]]
+ [[Scalability]]

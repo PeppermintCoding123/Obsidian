@@ -1,0 +1,4 @@
+- if much synchronisation => [[Write-invalidate protocol]] 
+	- heavy bus trafic from read misses
+- [[Write-update protocol]] requires bus brodcas capability - avoide ping-pong effect
+	- update data that will never be used

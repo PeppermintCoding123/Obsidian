@@ -1,0 +1,1 @@
+non-uniform memory access

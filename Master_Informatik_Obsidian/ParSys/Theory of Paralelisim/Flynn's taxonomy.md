@@ -1,0 +1,4 @@
+![[SISD]]
+![[SIMD]]
+![[MISD]]
+![[MIMD]]

@@ -1,0 +1,1 @@
+$$A = \frac{1}{t_E - t_S} \int _{t_S}^{t_E} DOP(t) dt = \frac{\sum_{i=1}^m i \times t_i}{\sum_{i=1}^m t_i}$$

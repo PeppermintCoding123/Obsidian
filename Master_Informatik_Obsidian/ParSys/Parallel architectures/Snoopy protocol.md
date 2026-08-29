@@ -1,0 +1,3 @@
+- bus-based memory system
+- local cache controllers observe ongoing memory transactions
+	- cache controller can use [[Write-invalidate protocol]] or [[Write-update protocol]]
