@@ -1,1 +1,0 @@
-#TODO copy algorithmis from slides

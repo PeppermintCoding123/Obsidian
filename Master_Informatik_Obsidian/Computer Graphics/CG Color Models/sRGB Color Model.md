@@ -7,3 +7,4 @@ $Z = 0,02\; R + 0,12\; G + 0,95 \;B$
 
 [[Computer Graphics - overview.canvas]]
 [[RGB Color Model]]
+[[Global Illumination - overview.canvas]]

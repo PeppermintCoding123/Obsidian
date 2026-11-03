@@ -6,3 +6,4 @@ Black(0,0,0), White (1,1,1)
 
 
 [[Computer Graphics - overview.canvas]]
+[[Global Illumination - overview.canvas]]

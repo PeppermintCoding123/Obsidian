@@ -8,3 +8,4 @@ Integrate to get X, Y, Z
 CIE-XYZ color gamut
 ![[Pasted image 20260331164253.png]]
 [[Computer Graphics - overview.canvas]]
+[[Global Illumination - overview.canvas]]

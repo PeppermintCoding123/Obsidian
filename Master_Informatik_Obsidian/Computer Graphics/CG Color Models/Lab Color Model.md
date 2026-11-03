@@ -8,3 +8,4 @@ $$a^* = 500 \cdot \left (\sqrt[3]{\frac{X}{X_n}} - \sqrt[3]{\frac{Y}{Y_n}} \righ
 $$b^* = 200 \cdot \left (\sqrt[3]{\frac{Y}{Y_n}} - \sqrt[3]{\frac{Z}{Z_n}} \right )$$
 = yelow-blue
 [[Computer Graphics - overview.canvas]]
+[[Global Illumination - overview.canvas]]

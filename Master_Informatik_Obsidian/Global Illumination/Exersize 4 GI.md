@@ -1,0 +1,1 @@
+![[Pasted image 20260904144535.png]][[Global Illumination - overview.canvas]]

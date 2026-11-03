@@ -5,7 +5,7 @@ plusminus $\pm$
 Fonts:
 $$\begin{matrix}
 3x^2 \in R \subset Q \\
-\mathnormal{3x^2 \in R \subset Q} \\
+\mathnormal{3x^2 \in R \subset Q } \\
 \mathrm{3x^2 \in R \subset Q} \\
 \mathit{3x^2 \in R \subset Q} \\
 \mathbf{3x^2 \in R \subset Q} \\
