@@ -1,0 +1,1 @@
+$$T_{th}(z) = \hat{T} \Big(\frac{p(z)}{\hat{p}}\Big)^{\frac{\gamma_{th}^{-1}}{\gamma_{th}}}$$
