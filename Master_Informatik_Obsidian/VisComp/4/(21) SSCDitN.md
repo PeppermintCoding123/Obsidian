@@ -1,0 +1,1 @@
+$$\partial_t \theta + (u \cdot \nabla) \theta + \frac{L}{c_p \Pi}C_c = 0$$

@@ -1,0 +1,1 @@
+$$q_{vs}(T,p) = \frac{380.16}{p} \exp\Big(\frac{17.67T}{T+243.50}\Big)$$

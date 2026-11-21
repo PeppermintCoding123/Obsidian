@@ -1,6 +1,10 @@
 {
 	"nodes":[
-		{"id":"41dca3016f276c33","x":-125,"y":-58,"width":250,"height":60,"type":"file","file":"VisComp/Stormscapes Simulating Cloud Dynamics in the Now.md"}
+		{"id":"41dca3016f276c33","type":"file","file":"VisComp/Stormscapes Simulating Cloud Dynamics in the Now.md","x":-125,"y":-58,"width":625,"height":1758},
+		{"id":"32d0723d07e7898d","type":"file","file":"VisComp/4/4.2 Thermodynamics.md","x":2323,"y":93,"width":877,"height":4667},
+		{"id":"28750537806a1aef","type":"file","file":"VisComp/4/4.3 Fluid Dynamics.md","x":3280,"y":101,"width":760,"height":3059},
+		{"id":"ab9216bb31536667","type":"file","file":"VisComp/4/4.1 Atmosphere.md","x":1520,"y":93,"width":716,"height":1827},
+		{"id":"3afbb921ce5722c2","type":"file","file":"VisComp/Stormscapes newer research.md","x":-1315,"y":1553,"width":675,"height":927}
 	],
 	"edges":[]
 }

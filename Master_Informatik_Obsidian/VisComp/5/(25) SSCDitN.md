@@ -1,0 +1,1 @@
+$$\theta(\mathbf{x}) = T_{ISA}(h) + E \cdot (\gamma_{heat}(m \cdot heat(x,y)-1)+1)$$

@@ -1,0 +1,1 @@
+$$\partial_tu= -u\cdot \nabla u-\rho^{-1}\nabla p + v \nabla \cdot \nabla u + b + f$$

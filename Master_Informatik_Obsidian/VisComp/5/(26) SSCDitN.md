@@ -1,0 +1,1 @@
+$$q_v(\mathbf{x}) = \phi_{rel} \cdot q_{v,s}(\theta(\mathbf{x}), p_{ISA}(h))\cdot (\gamma_{vapor}(m \cdot vapor(x,y)-1)+1)$$

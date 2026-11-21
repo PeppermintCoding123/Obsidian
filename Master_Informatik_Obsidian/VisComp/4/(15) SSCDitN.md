@@ -1,0 +1,1 @@
+$$B = g\Big(\frac{\mathcal{M}_{air}T_{th}}{\mathcal{M}_{th}T_{air}} - 1\Big)$$

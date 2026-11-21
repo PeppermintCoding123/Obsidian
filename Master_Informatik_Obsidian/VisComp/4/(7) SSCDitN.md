@@ -1,0 +1,1 @@
+$$\mathcal{M}_{th} = X_V \mathcal{M}_W + (1-X_V)\mathcal{M}_{air}$$
